@@ -1,0 +1,752 @@
++	2567	52	10	3	6	5712.3	0.03	0.06	N	O	21/4/1998	14/4/1998	11/5/1998	NONE	RAIL	s cajole regular, final acco	lineitem
++	134	189	10	3	26	28318.68	0.09	0.06	A	F	20/6/1992	12/7/1992	16/7/1992	NONE	RAIL	 among the pending depos	lineitem
++	2979	188	9	3	35	38086.3	0.04	0.03	N	O	25/5/1996	11/6/1996	24/6/1996	DELIVER IN PERSON	MAIL	old ideas beneath the blit	lineitem
++	5285	70	F	99377.51	18/1/1994	2-HIGH	Clerk#000000976	0	p across the furiously ironic deposits.	orders
++	5412	142	O	109979.71	20/1/1998	2-HIGH	Clerk#000000151	0	ets boost furiously regular accounts. regular foxes above th	orders
++	4005	4	1	1	26	23504	0.09	0.05	N	O	1/12/1996	3/2/1997	15/12/1996	NONE	REG AIR	 to the quic	lineitem
++	4711	142	O	129546.56	6/5/1998	1-URGENT	Clerk#000000818	0	mptotes. unusual packages wake furiously qui	orders
++	4166	141	10	1	8	8329.12	0	0.08	A	F	5/6/1993	10/4/1993	5/7/1993	COLLECT COD	MAIL	uickly. blithely pending de	lineitem
++	5345	31	O	111924.56	24/8/1997	1-URGENT	Clerk#000000057	0	r the slyly silent packages. pending, even pinto b	orders
++	1089	26	7	3	23	21298.46	0.1	0.05	N	O	24/6/1996	25/7/1996	20/7/1996	DELIVER IN PERSON	AIR	g dolphins. deposits integrate. s	lineitem
++	2146	26	9	4	31	28706.62	0.02	0	A	F	4/1/1993	24/10/1992	15/1/1993	DELIVER IN PERSON	TRUCK	lly even deposit	lineitem
++	2594	72	3	1	7	6804.49	0.06	0.02	R	F	26/3/1993	5/3/1993	24/4/1993	DELIVER IN PERSON	FOB	arls cajole 	lineitem
++	3782	27	10	1	29	26883.58	0.01	0.07	N	O	17/9/1996	3/10/1996	7/10/1996	DELIVER IN PERSON	REG AIR	quickly unusual pinto beans. carefully fina	lineitem
++	453	96	7	4	45	44824.05	0.1	0.01	N	O	18/9/1997	29/6/1997	14/10/1997	TAKE BACK RETURN	AIR	ironic foxes. slyly pending depos	lineitem
++	2368	14	5	2	32	29248.32	0.03	0	R	F	23/9/1993	7/10/1993	27/9/1993	COLLECT COD	TRUCK	gular courts use blithely around the	lineitem
++	2406	7	O	182516.77	28/10/1996	5-LOW	Clerk#000000561	0	blithely regular accounts u	orders
++	1063	37	F	41392.31	2/4/1994	2-HIGH	Clerk#000000024	0	deposits nag quickly regular deposits. quickl	orders
++	5223	130	9	4	40	41205.2	0.01	0.04	R	F	1/10/1994	18/9/1994	28/10/1994	COLLECT COD	SHIP	kly pending 	lineitem
++	4838	52	3	3	26	24753.3	0.06	0.04	R	F	3/9/1992	25/10/1992	11/9/1992	TAKE BACK RETURN	FOB	ular requests boost about the packages. r	lineitem
++	3523	134	5	5	48	49638.24	0	0.01	N	O	22/7/1998	25/6/1998	19/8/1998	DELIVER IN PERSON	AIR	 regular requests	lineitem
++	1381	127	O	58212.22	25/5/1998	3-MEDIUM	Clerk#000000107	0	even requests breach after the bold, ironic instructions. slyly even	orders
++	5824	107	8	5	44	44312.4	0.08	0.03	N	O	24/1/1997	31/1/1997	11/2/1997	COLLECT COD	TRUCK	fily fluffily bold	lineitem
++	5601	38	4	1	29	27202.87	0.09	0.04	A	F	6/4/1992	24/2/1992	29/4/1992	DELIVER IN PERSON	TRUCK	 ironic ideas. final	lineitem
++	3072	108	3	2	36	36291.6	0.07	0.02	R	F	14/4/1994	22/4/1994	6/5/1994	COLLECT COD	AIR	 theodolites. blithely e	lineitem
++	225	142	1	7	44	45854.16	0.1	0.06	N	O	22/9/1995	16/8/1995	22/10/1995	NONE	REG AIR	leep slyly 	lineitem
++	2279	41	2	2	38	35759.52	0.08	0.07	R	F	9/6/1993	6/4/1993	26/6/1993	COLLECT COD	TRUCK	s above the furiously express dep	lineitem
++	4994	80	9	2	47	46063.76	0.04	0.05	N	O	20/9/1996	4/8/1996	15/10/1996	COLLECT COD	TRUCK	sts. blithely close ideas sleep quic	lineitem
++	2657	25	O	148176.06	17/10/1995	2-HIGH	Clerk#000000160	0	 foxes-- slyly final dependencies around the slyly final theodo	orders
++	5444	130	P	172908.01	18/3/1995	1-URGENT	Clerk#000000677	0	 asymptotes. asymptotes cajole quickly quickly bo	orders
++	2789	37	O	219123.27	14/3/1998	2-HIGH	Clerk#000000972	0	gular patterns boost. carefully even re	orders
++	1892	25	F	133273.64	26/3/1994	5-LOW	Clerk#000000733	0	sts. slyly regular dependencies use slyly. ironic, spec	orders
++	2502	70	F	33470.4	28/5/1993	4-NOT SPECIFIED	Clerk#000000914	0	lyly: carefully pending ideas affix again	orders
++	4289	196	7	1	19	20827.61	0.06	0.06	R	F	31/12/1993	6/11/1993	23/1/1994	DELIVER IN PERSON	TRUCK	e carefully regular ideas. sl	lineitem
++	3782	153	1	2	10	10531.5	0.03	0.05	N	O	7/9/1996	19/11/1996	4/10/1996	COLLECT COD	FOB	ven pinto b	lineitem
++	1921	21	10	1	9	8289.18	0.08	0	R	F	1/2/1994	20/3/1994	1/3/1994	DELIVER IN PERSON	FOB	to beans. even excuses integrate specia	lineitem
++	515	183	4	3	11	11914.98	0	0.02	R	F	4/9/1993	2/10/1993	5/9/1993	DELIVER IN PERSON	FOB	ly pending accounts haggle blithel	lineitem
++	1120	20	1	2	49	45080.98	0.01	0.07	N	O	3/1/1998	2/2/1998	9/1/1998	TAKE BACK RETURN	RAIL	heodolites. quick re	lineitem
++	2979	9	6	1	8	7272	0	0.08	N	O	18/6/1996	21/5/1996	6/7/1996	COLLECT COD	REG AIR	st blithely; blithely regular gifts dazz	lineitem
++	3079	166	1	6	46	49043.36	0	0	N	O	19/11/1997	4/11/1997	25/11/1997	DELIVER IN PERSON	REG AIR	es. final, regula	lineitem
++	1095	156	4	3	13	13729.95	0.06	0.01	N	O	24/8/1995	19/10/1995	2/9/1995	TAKE BACK RETURN	REG AIR	ously even accounts. slyly bold a	lineitem
++	737	121	F	12984.85	26/4/1992	5-LOW	Clerk#000000233	0	ake blithely express, ironic theodolites. blithely special accounts wa	orders
++	2534	27	6	2	49	45423.98	0.08	0.08	N	O	1/9/1996	20/8/1996	6/9/1996	NONE	SHIP	sometimes regular requests. blithely unus	lineitem
++	1	156	4	1	17	17954.55	0.04	0.02	N	O	13/3/1996	12/2/1996	22/3/1996	DELIVER IN PERSON	TRUCK	egular courts above the	lineitem
++	3877	80	8	3	44	43123.52	0.09	0	A	F	7/6/1993	15/7/1993	6/7/1993	DELIVER IN PERSON	REG AIR	elets. quickly regular accounts caj	lineitem
++	4806	16	7	1	26	23816.26	0.1	0.05	R	F	28/5/1993	7/6/1993	29/5/1993	DELIVER IN PERSON	SHIP	 bold pearls sublate blithely. quickly pe	lineitem
++	995	24	5	5	18	16632.36	0.06	0.03	N	O	3/7/1995	29/7/1995	22/7/1995	TAKE BACK RETURN	AIR	 even accounts unwind c	lineitem
++	897	91	4	1	15	14866.35	0.07	0.04	R	F	25/5/1995	9/5/1995	7/6/1995	COLLECT COD	REG AIR	r ideas. slyly spec	lineitem
++	2945	59	10	1	37	35484.85	0	0.02	N	O	10/2/1996	20/3/1996	12/2/1996	COLLECT COD	SHIP	l instructions. regular, regular 	lineitem
++	5348	53	O	119164.96	8/11/1997	5-LOW	Clerk#000000497	0	totes. accounts after the furiously	orders
++	871	97	8	1	48	47860.32	0.1	0.03	N	O	25/2/1996	9/2/1996	18/3/1996	NONE	AIR	coys dazzle slyly slow notornis. f	lineitem
++	898	193	6	4	36	39354.84	0.04	0.07	R	F	4/8/1993	25/7/1993	23/8/1993	DELIVER IN PERSON	REG AIR	 after the carefully 	lineitem
++	1894	169	10	1	40	42766.4	0.03	0.07	R	F	7/6/1992	11/5/1992	1/7/1992	DELIVER IN PERSON	FOB	ily furiously bold packages. flu	lineitem
++	4422	80	9	5	20	19601.6	0.07	0.05	N	O	17/8/1995	16/7/1995	13/9/1995	DELIVER IN PERSON	RAIL	ructions wake slyly al	lineitem
++	5153	112	2	5	36	36435.96	0.01	0.03	N	O	15/12/1995	8/11/1995	30/12/1995	COLLECT COD	TRUCK	 ironic instru	lineitem
++	1732	5	6	1	50	45250	0.02	0.01	R	F	5/12/1993	23/1/1994	20/12/1993	TAKE BACK RETURN	FOB	fily final asymptotes according 	lineitem
++	128	74	F	36333.34	15/6/1992	1-URGENT	Clerk#000000385	0	ns integrate fluffily. ironic asymptotes after the regular excuses nag around 	orders
++	644	50	1	5	23	21851.15	0.02	0.04	R	F	31/7/1992	28/7/1992	13/8/1992	DELIVER IN PERSON	TRUCK	uctions nag quickly alongside of t	lineitem
++	3111	137	8	1	22	22816.86	0.06	0.05	N	O	21/9/1995	9/11/1995	17/10/1995	COLLECT COD	REG AIR	quests. regular dolphins against the 	lineitem
++	5025	30	9	1	11	10230.33	0	0.04	N	O	21/2/1997	16/4/1997	14/3/1997	COLLECT COD	SHIP	the carefully final esc	lineitem
++	126	Customer#000000126	ha4EHmbx3kg DYCsP6DFeUOmavtQlHhcfaqr	22	32-755-914-7592	1001.39	HOUSEHOLD	s about the even instructions boost carefully furiously ironic pearls. ruthless, 	customer
++	5953	129	10	1	36	37048.32	0.03	0	R	F	28/5/1992	24/6/1992	29/5/1992	DELIVER IN PERSON	FOB	 cajole furio	lineitem
++	422	74	O	106045.89	31/5/1997	4-NOT SPECIFIED	Clerk#000000049	0	aggle carefully across the accounts. regular accounts eat fluffi	orders
++	166	46	3	4	8	7568.32	0.05	0.02	N	O	30/12/1995	29/11/1995	29/1/1996	DELIVER IN PERSON	RAIL	e carefully bold 	lineitem
++	2628	106	9	1	44	44268.4	0.07	0.03	R	F	11/1/1994	14/1/1994	13/1/1994	DELIVER IN PERSON	SHIP	lyly final, pending ide	lineitem
++	1253	114	8	5	19	19268.09	0.05	0.05	A	F	1/4/1993	22/4/1993	14/4/1993	TAKE BACK RETURN	AIR	al pinto bea	lineitem
++	611	17	7	1	39	35763.39	0.05	0.06	R	F	6/5/1993	9/4/1993	22/5/1993	TAKE BACK RETURN	SHIP	nto beans 	lineitem
++	1414	77	O	38057.81	16/8/1995	1-URGENT	Clerk#000000883	0	ccounts. ironic foxes haggle car	orders
++	1538	128	3	6	42	43181.04	0.08	0.08	N	O	10/10/1995	12/9/1995	8/11/1995	DELIVER IN PERSON	TRUCK	equests cajole blithely 	lineitem
++	5158	76	O	240284.95	21/1/1997	1-URGENT	Clerk#000000541	0	 regular foxes. even foxes wake blithely 	orders
++	358	97	10	4	15	14956.35	0.08	0.08	A	F	4/10/1993	17/12/1993	23/10/1993	TAKE BACK RETURN	MAIL	out the blithely ironic deposits slee	lineitem
++	4066	139	5	1	9	9352.17	0.01	0.05	N	O	6/5/1997	25/3/1997	27/5/1997	COLLECT COD	FOB	nal, ironic accounts. blithel	lineitem
++	4614	34	5	6	32	29888.96	0.1	0.05	N	O	21/8/1996	28/5/1996	16/9/1996	NONE	REG AIR	ickly furio	lineitem
++	455	171	9	4	11	11782.87	0.01	0.02	N	O	15/3/1997	14/2/1997	26/3/1997	DELIVER IN PERSON	MAIL	g deposits against the slyly idle foxes u	lineitem
++	2885	50	9	7	40	38002	0.05	0.03	A	F	23/9/1992	15/11/1992	7/10/1992	TAKE BACK RETURN	AIR	 express depos	lineitem
++	3234	79	10	1	45	44058.15	0.01	0.04	N	O	15/5/1996	9/5/1996	2/6/1996	DELIVER IN PERSON	TRUCK	 express packages are carefully. f	lineitem
++	3136	80	1	6	29	28422.32	0.08	0.07	A	F	16/11/1994	3/10/1994	14/12/1994	NONE	FOB	latelets. final 	lineitem
++	2531	145	4	6	46	48076.44	0.1	0.08	N	O	3/7/1996	27/6/1996	12/7/1996	TAKE BACK RETURN	REG AIR	e final, bold pains. ir	lineitem
++	325	159	1	1	34	36011.1	0.09	0.04	A	F	28/10/1993	13/12/1993	17/11/1993	TAKE BACK RETURN	MAIL	ly bold deposits. always iron	lineitem
++	579	167	6	6	5	5335.8	0.05	0.08	N	O	2/5/1998	25/4/1998	5/5/1998	COLLECT COD	REG AIR	refully silent ideas cajole furious	lineitem
++	1156	87	8	1	15	14806.2	0.07	0.06	N	O	21/12/1996	3/1/1997	10/1/1997	TAKE BACK RETURN	AIR	the furiously pen	lineitem
++	3040	83	4	4	14	13763.12	0.05	0.04	A	F	13/5/1993	18/5/1993	19/5/1993	TAKE BACK RETURN	REG AIR	 haggle carefully. express hocke	lineitem
++	48	Customer#000000048	0UU iPhBupFvemNB	0	10-508-348-5882	3792.5	BUILDING	re fluffily pending foxes. pending, bold platelets sleep slyly. even platelets cajo	customer
++	2437	94	6	1	46	45728.14	0.07	0.04	A	F	12/8/1993	16/6/1993	29/8/1993	NONE	RAIL	e of the bold, dogged requests	lineitem
++	1191	112	O	28623.04	7/11/1995	3-MEDIUM	Clerk#000000011	0	uests nag furiously. carefully even requests	orders
++	5056	48	7	1	7	6636.28	0.09	0.01	N	O	28/4/1997	7/4/1997	15/5/1997	DELIVER IN PERSON	TRUCK	rouches after the pending instruc	lineitem
++	3973	40	6	3	40	37601.6	0.08	0.05	R	F	3/5/1992	9/6/1992	21/5/1992	COLLECT COD	RAIL	g the carefully blithe f	lineitem
++	4354	86	7	4	36	35498.88	0.05	0.05	A	F	20/11/1994	6/12/1994	6/12/1994	DELIVER IN PERSON	AIR	 wake slyly eve	lineitem
++	5600	187	8	1	34	36964.12	0.02	0	N	O	22/3/1997	5/4/1997	9/4/1997	TAKE BACK RETURN	MAIL	ly above the stealthy ideas. permane	lineitem
++	5669	74	O	113156.3	6/5/1996	1-URGENT	Clerk#000000336	0	ng packages nag fluffily furio	orders
++	3463	61	10	1	45	43247.7	0.02	0.02	A	F	30/10/1993	4/11/1993	8/11/1993	DELIVER IN PERSON	FOB	nts are slyly 	lineitem
++	1477	115	6	5	41	41619.51	0.04	0.06	N	O	16/12/1997	31/10/1997	12/1/1998	DELIVER IN PERSON	REG AIR	y. final pearls kindle. accounts 	lineitem
++	1924	76	4	6	15	14641.05	0.02	0.04	N	O	4/1/1997	13/11/1996	27/1/1997	NONE	SHIP	he package	lineitem
++	70	38	9	5	37	34707.11	0.09	0.04	R	F	13/2/1994	16/3/1994	21/2/1994	COLLECT COD	MAIL	n accounts are. q	lineitem
++	1888	121	F	224724.11	31/10/1993	4-NOT SPECIFIED	Clerk#000000659	0	olites. pinto beans cajole. regular deposits affix. slyly regular	orders
++	1697	35	1	5	19	17765.57	0.03	0.07	N	O	8/1/1997	12/11/1996	11/1/1997	DELIVER IN PERSON	FOB	ons? special, special accounts after	lineitem
++	4931	103	6	6	8	8024.8	0.02	0.03	A	F	16/2/1995	30/12/1994	15/3/1995	DELIVER IN PERSON	SHIP	dependencies are slyly	lineitem
++	197	178	8	2	8	8625.36	0.09	0.02	A	F	17/4/1995	1/7/1995	27/4/1995	DELIVER IN PERSON	SHIP	y blithely even deposits. blithely fina	lineitem
++	678	199	10	4	48	52761.12	0.08	0.08	R	F	28/2/1993	4/4/1993	24/3/1993	NONE	REG AIR	ithely. slyly express foxes	lineitem
++	4196	4	1	7	3	2712	0	0.06	N	O	5/8/1998	28/7/1998	15/8/1998	DELIVER IN PERSON	REG AIR	y regular packages haggle furiously alongs	lineitem
++	2371	35	1	2	21	19635.63	0	0.05	N	O	14/4/1998	14/2/1998	18/4/1998	COLLECT COD	AIR	gle furiously regu	lineitem
++	261	66	7	2	20	19321.2	0	0.06	R	F	21/10/1993	2/8/1993	4/11/1993	DELIVER IN PERSON	RAIL	ites hinder 	lineitem
++	548	1	8	3	21	18921	0.03	0.08	A	F	13/1/1995	18/12/1994	25/1/1995	NONE	AIR	ideas. special accounts above the furiou	lineitem
++	5504	68	5	1	4	3872.24	0.1	0.07	A	F	30/4/1993	1/3/1993	22/5/1993	DELIVER IN PERSON	AIR	into beans boost. 	lineitem
++	3296	197	1	6	40	43887.6	0	0.04	A	F	28/12/1994	8/12/1994	13/1/1995	COLLECT COD	REG AIR	ronic ideas across the	lineitem
++	4578	74	2	1	10	9740.7	0.09	0.06	R	F	1/1/1993	19/11/1992	28/1/1993	TAKE BACK RETURN	REG AIR	uests. blithely unus	lineitem
++	3044	101	2	1	10	10011	0.07	0.08	N	O	13/7/1996	6/5/1996	21/7/1996	TAKE BACK RETURN	REG AIR	 slyly ironic requests. s	lineitem
++	2085	49	F	45311.07	21/11/1993	3-MEDIUM	Clerk#000000818	0	ress, express ideas haggle	orders
++	161	17	F	19056.99	31/8/1994	2-HIGH	Clerk#000000322	0	carefully! special instructions sin	orders
++	2435	12	9	3	24	21888.24	0.07	0.08	R	F	14/3/1993	20/5/1993	26/3/1993	DELIVER IN PERSON	SHIP	s. carefully regular d	lineitem
++	1061	131	2	5	50	51556.5	0.04	0.08	N	O	25/5/1998	22/7/1998	22/6/1998	COLLECT COD	AIR	nding excuses are around the e	lineitem
++	5954	28	F	167262.34	3/12/1992	1-URGENT	Clerk#000000968	0	requests along the blith	orders
++	4960	124	F	153259.41	26/2/1995	5-LOW	Clerk#000000229	0	uriously even excuses. fluffily regular instructions along the furiously ironi	orders
++	2880	8	F	145761.99	15/3/1992	2-HIGH	Clerk#000000756	0	ves maintain doggedly spec	orders
++	935	50	O	97733.87	24/9/1997	5-LOW	Clerk#000000180	0	iously final deposits cajole. blithely even packages 	orders
++	1312	81	2	1	9	8829.72	0.04	0.08	R	F	19/7/1994	29/6/1994	24/7/1994	TAKE BACK RETURN	MAIL	. furiously 	lineitem
++	102	89	10	1	37	36595.96	0.06	0	N	O	24/7/1997	2/8/1997	7/8/1997	TAKE BACK RETURN	SHIP	ully across the ideas. final deposit	lineitem
++	5538	139	F	90981.28	25/12/1993	1-URGENT	Clerk#000000992	0	ttainments. slyly final ideas are about the furiously silent excuses.	orders
++	4228	141	10	1	20	20822.8	0	0.06	N	O	24/4/1997	29/5/1997	17/5/1997	NONE	RAIL	f the slyly fluffy pinto beans are	lineitem
++	98	168	9	4	10	10681.6	0.03	0.03	A	F	23/10/1994	8/11/1994	9/11/1994	COLLECT COD	RAIL	 carefully. quickly ironic ideas	lineitem
++	1955	18	8	2	2	1836.02	0.03	0.01	R	F	6/7/1992	6/7/1992	1/8/1992	COLLECT COD	TRUCK	ickly aroun	lineitem
++	1189	46	F	71017.99	9/4/1994	1-URGENT	Clerk#000000243	0	f the even accounts. courts print blithely ironic accounts. sile	orders
++	4835	86	7	3	27	26624.16	0.05	0	A	F	10/12/1994	13/12/1994	2/1/1995	DELIVER IN PERSON	REG AIR	 accounts after the car	lineitem
++	163	193	5	4	5	5465.95	0.02	0	N	O	17/11/1997	9/10/1997	5/12/1997	DELIVER IN PERSON	TRUCK	 must belie	lineitem
++	5092	186	7	5	42	45619.56	0.01	0.02	N	O	6/11/1995	1/1/1996	6/12/1995	DELIVER IN PERSON	AIR	s use along t	lineitem
++	1732	73	1	6	16	15569.12	0.01	0.05	R	F	7/1/1994	2/1/1994	25/1/1994	COLLECT COD	SHIP	ix carefully at the furiously regular pac	lineitem
++	1927	68	5	1	3	2904.18	0	0.05	N	O	6/10/1995	8/12/1995	5/11/1995	COLLECT COD	FOB	ccounts affi	lineitem
++	2181	88	9	2	46	45451.68	0	0.02	N	O	28/11/1995	17/10/1995	26/12/1995	COLLECT COD	AIR	osits. final packages sleep	lineitem
++	2499	133	9	3	31	32027.03	0.09	0.05	N	O	9/12/1995	28/10/1995	5/1/1996	COLLECT COD	AIR	to beans across the carefully ironic theodo	lineitem
++	1223	100	1	1	28	28002.8	0.1	0.06	N	O	7/8/1996	24/7/1996	13/8/1996	TAKE BACK RETURN	MAIL	 quickly ironic requests. furious	lineitem
++	3619	96	7	1	49	48808.41	0.01	0.08	N	O	22/1/1997	21/12/1996	17/2/1997	TAKE BACK RETURN	MAIL	 waters. furiously even deposits 	lineitem
++	705	189	10	1	46	50102.28	0.05	0.06	N	O	18/4/1997	6/5/1997	5/5/1997	DELIVER IN PERSON	SHIP	ss deposits. ironic packa	lineitem
++	643	163	2	3	23	24452.68	0.05	0.03	N	O	9/7/1995	18/5/1995	31/7/1995	COLLECT COD	RAIL	sits are carefully according to the e	lineitem
++	2048	97	1	4	11	10967.99	0.1	0.03	R	F	20/12/1993	19/1/1994	4/1/1994	TAKE BACK RETURN	MAIL	totes. idly ironic packages nag	lineitem
++	1735	156	7	1	43	45414.45	0.02	0.06	A	F	14/1/1993	25/3/1993	2/2/1993	DELIVER IN PERSON	FOB	iously after the 	lineitem
++	4199	5	F	30494.62	13/2/1992	1-URGENT	Clerk#000000309	0	e blithely. special deposits haggle slyly final foxes. carefully even	orders
++	768	98	O	220636.82	20/8/1996	3-MEDIUM	Clerk#000000411	0	jole slyly ironic packages. slyly even idea	orders
++	1408	55	O	183965.61	26/12/1997	4-NOT SPECIFIED	Clerk#000000942	0	t the quickly final asymptotes. unusual	orders
++	3270	57	5	6	29	27754.45	0.01	0.04	N	O	22/8/1997	17/8/1997	6/9/1997	COLLECT COD	RAIL	ptotes nag above the quickly bold deposits	lineitem
++	3269	161	10	1	40	42446.4	0.02	0.07	N	O	11/6/1996	6/5/1996	15/6/1996	DELIVER IN PERSON	TRUCK	es. pending d	lineitem
++	3173	185	6	5	2	2170.36	0	0.06	N	O	18/8/1996	21/9/1996	7/9/1996	DELIVER IN PERSON	MAIL	fluffily above t	lineitem
++	4167	28	O	62108.45	17/6/1998	1-URGENT	Clerk#000000917	0	kly furiously even deposits. unu	orders
++	1671	96	10	2	4	3984.36	0.05	0	N	O	30/8/1996	19/9/1996	23/9/1996	DELIVER IN PERSON	TRUCK	lyly regular ac	lineitem
++	2146	157	5	2	6	6342.9	0.07	0.05	A	F	3/1/1993	24/10/1992	24/1/1993	DELIVER IN PERSON	RAIL	ing to the requests. dependencies boost 	lineitem
++	259	193	6	5	6	6559.14	0	0.05	R	F	5/12/1993	22/12/1993	21/12/1993	COLLECT COD	TRUCK	 requests sleep	lineitem
++	4322	102	7	5	10	10021	0	0.05	N	O	31/5/1998	27/4/1998	25/6/1998	TAKE BACK RETURN	REG AIR	 regular ideas engage carefully quick	lineitem
++	2306	142	9	5	42	43769.88	0.04	0.07	N	O	5/9/1995	25/8/1995	28/9/1995	COLLECT COD	MAIL	furiously final acco	lineitem
++	3238	61	F	41375.69	21/2/1993	5-LOW	Clerk#000000818	0	lly express deposits are. furiously unusual ideas wake carefully somas. instr	orders
++	5734	150	3	2	6	6300.9	0.07	0	N	O	27/10/1997	19/12/1997	2/11/1997	COLLECT COD	RAIL	s. regular platelets cajole furiously. regu	lineitem
++	2177	129	10	1	45	46310.4	0.02	0.01	N	O	11/2/1997	27/2/1997	17/2/1997	NONE	SHIP	. theodolites haggle carefu	lineitem
++	3232	135	1	2	34	35194.42	0.07	0.04	R	F	9/1/1993	14/11/1992	3/2/1993	NONE	SHIP	old packages integrate quickly 	lineitem
++	4772	146	9	2	16	16738.24	0.07	0.06	R	F	27/10/1994	7/12/1994	29/10/1994	TAKE BACK RETURN	MAIL	egular accounts wake s	lineitem
++	1508	148	7	4	1	1048.14	0.02	0.02	N	O	13/7/1998	3/6/1998	17/7/1998	TAKE BACK RETURN	AIR	s the blithely bold instruction	lineitem
++	4643	185	6	1	50	54259	0.08	0.05	N	O	11/9/1995	13/8/1995	30/9/1995	DELIVER IN PERSON	SHIP	. ironic deposits cajo	lineitem
++	5509	100	3	4	45	45004.5	0	0.07	A	F	24/7/1994	28/5/1994	20/8/1994	COLLECT COD	AIR	counts sleep. f	lineitem
++	2881	10	1	2	1	910.01	0.09	0.03	A	F	13/5/1992	21/7/1992	18/5/1992	COLLECT COD	MAIL	final theodolites. quickly	lineitem
++	997	48	9	2	17	16116.68	0.03	0	N	O	28/7/1997	26/7/1997	20/8/1997	DELIVER IN PERSON	SHIP	aggle quickly furiously	lineitem
++	3654	2	7	3	37	33374	0.07	0.05	A	F	22/9/1992	20/7/1992	19/10/1992	TAKE BACK RETURN	RAIL	unts doze bravely ab	lineitem
++	2791	29	2	7	26	24154.52	0.06	0.03	R	F	6/2/1995	7/12/1994	23/2/1995	DELIVER IN PERSON	AIR	uriously special instructio	lineitem
++	2850	199	3	4	4	4396.76	0.04	0.04	N	O	28/10/1996	26/12/1996	7/11/1996	COLLECT COD	RAIL	al deposits cajole carefully quickly 	lineitem
++	1250	37	F	12907.62	29/9/1992	4-NOT SPECIFIED	Clerk#000000652	0	ts after the fluffily pending instructions use slyly about the s	orders
++	998	11	8	4	6	5466.06	0.09	0.05	R	F	20/3/1995	27/12/1994	13/4/1995	DELIVER IN PERSON	MAIL	refully accounts. carefully express ac	lineitem
++	4037	64	9	1	32	30849.92	0	0.06	A	F	6/5/1993	8/6/1993	31/5/1993	DELIVER IN PERSON	AIR	e of the pending, iron	lineitem
++	4263	19	3	4	20	18380.2	0.02	0.07	N	O	9/4/1998	30/4/1998	4/5/1998	NONE	RAIL	uietly regular deposits. sly deposits w	lineitem
++	1697	94	5	4	49	48710.41	0.08	0.04	N	O	7/12/1996	2/1/1997	31/12/1996	COLLECT COD	TRUCK	lar foxes. fluffily furious ideas doubt qu	lineitem
++	1347	185	6	3	23	24959.14	0.03	0.04	N	O	31/7/1997	25/8/1997	21/8/1997	COLLECT COD	SHIP	ronic pinto beans. express reques	lineitem
++	1830	120	4	1	38	38764.56	0	0.07	R	F	20/4/1995	22/5/1995	24/4/1995	TAKE BACK RETURN	TRUCK	ely even a	lineitem
++	3329	6	3	2	9	8154	0	0.02	N	O	24/7/1995	2/8/1995	1/8/1995	COLLECT COD	MAIL	lly final depo	lineitem
++	5764	200	3	2	20	22004	0.1	0.05	A	F	17/10/1993	24/12/1993	18/10/1993	TAKE BACK RETURN	FOB	ng to the fluffily qu	lineitem
++	1315	16	6	2	15	13740.15	0.05	0.01	N	O	12/7/1998	10/6/1998	7/8/1998	COLLECT COD	AIR	. foxes integrate carefully special	lineitem
++	3073	136	F	151419.5	8/1/1994	3-MEDIUM	Clerk#000000404	0	kly slyly bold accounts. express courts near the regular ideas sleep bli	orders
++	2151	167	2	1	23	24544.68	0.06	0.02	N	O	20/11/1996	17/12/1996	30/11/1996	DELIVER IN PERSON	AIR	 silent dependencies about the slyl	lineitem
++	258	36	2	5	25	23400.75	0.08	0.02	A	F	13/4/1994	26/2/1994	29/4/1994	TAKE BACK RETURN	TRUCK	leep pending packages.	lineitem
++	5447	13	O	29029.84	16/3/1996	3-MEDIUM	Clerk#000000597	0	uternes around the furiously bold accounts wake after 	orders
++	2789	144	5	6	16	16706.24	0.07	0.03	N	O	11/5/1998	8/5/1998	24/5/1998	TAKE BACK RETURN	RAIL	d the carefully iron	lineitem
++	5827	17	4	6	14	12838.14	0.05	0.01	N	O	31/8/1998	6/9/1998	13/9/1998	TAKE BACK RETURN	RAIL	rges. fluffily pending 	lineitem
++	4197	121	6	5	37	37781.44	0.03	0.04	N	O	20/10/1996	10/10/1996	10/11/1996	COLLECT COD	TRUCK	carefully enticing decoys boo	lineitem
++	2950	136	O	183620.33	6/7/1997	1-URGENT	Clerk#000000833	0	 dolphins around the furiously 	orders
++	5252	91	O	173145.37	17/2/1996	1-URGENT	Clerk#000000724	0	 ironic accounts among the silent asym	orders
++	5249	103	F	123586.03	6/9/1994	3-MEDIUM	Clerk#000000019	0	refully bold accounts 	orders
++	5828	127	F	62172.34	6/3/1994	5-LOW	Clerk#000000377	0	ages boost never during the final packa	orders
++	1923	178	8	2	23	24797.91	0.07	0.05	N	O	8/9/1997	11/8/1997	14/9/1997	TAKE BACK RETURN	MAIL	aggle carefully. furiously permanent	lineitem
++	5984	102	3	2	25	25052.5	0.05	0.08	R	F	6/10/1994	21/7/1994	28/10/1994	COLLECT COD	RAIL	gular accounts. even packages nag slyly	lineitem
++	5700	143	O	79901.18	25/12/1997	1-URGENT	Clerk#000000618	0	ly pending dolphins sleep carefully slyly pending i	orders
++	4070	155	3	2	40	42206	0.07	0.07	N	O	13/7/1995	23/7/1995	6/8/1995	COLLECT COD	MAIL	about the sentiments. quick	lineitem
++	513	62	7	1	20	19241.2	0.09	0.07	N	O	12/7/1995	31/5/1995	31/7/1995	NONE	AIR	efully ironic ideas doze slyl	lineitem
++	227	166	1	1	19	20257.04	0.05	0.06	N	O	10/12/1995	30/1/1996	26/12/1995	NONE	RAIL	s cajole furiously a	lineitem
++	4967	50	1	3	15	14250.75	0.08	0.02	N	O	16/4/1997	12/4/1997	8/5/1997	TAKE BACK RETURN	MAIL	y. blithel	lineitem
++	4615	29	F	10500.27	27/8/1993	3-MEDIUM	Clerk#000000982	0	jole after the fluffily pending foxes. packages affix carefully acco	orders
++	1702	67	2	1	19	18374.14	0.02	0.01	N	F	2/6/1995	30/6/1995	29/6/1995	NONE	REG AIR	ies haggle blith	lineitem
++	2848	125	6	4	34	34854.08	0.02	0.08	A	F	15/3/1992	24/4/1992	12/4/1992	TAKE BACK RETURN	RAIL	ts along the blithely regu	lineitem
++	4292	40	6	2	1	940.04	0.03	0.01	A	F	7/2/1992	16/3/1992	10/2/1992	DELIVER IN PERSON	FOB	 the furiously ev	lineitem
++	4869	58	F	175422.13	26/9/1994	5-LOW	Clerk#000000802	0	boost! ironic packages un	orders
++	5761	108	9	2	36	36291.6	0	0.07	N	O	7/9/1998	21/9/1998	11/9/1998	TAKE BACK RETURN	TRUCK	 pinto beans thrash alongside of the pendi	lineitem
++	4064	197	10	3	32	35110.08	0.04	0.07	N	O	14/1/1997	1/1/1997	21/1/1997	COLLECT COD	REG AIR	es boost. careful	lineitem
++	2595	82	3	6	31	30444.48	0.06	0.04	N	O	7/2/1996	10/2/1996	5/3/1996	DELIVER IN PERSON	AIR	tipliers w	lineitem
++	4678	178	9	5	40	43126.8	0.03	0.07	N	O	11/11/1998	27/10/1998	24/11/1998	TAKE BACK RETURN	AIR	. final, unusual requests sleep thinl	lineitem
++	1287	19	F	131432.42	5/7/1994	2-HIGH	Clerk#000000288	0	ly ironic dolphins integrate furiously among the final packages. st	orders
++	2338	52	7	1	30	28561.5	0.07	0.06	N	O	10/12/1997	15/10/1997	11/12/1997	TAKE BACK RETURN	REG AIR	ould have to nag quickly	lineitem
++	3811	43	6	3	19	17917.76	0.02	0.06	N	O	20/7/1998	14/6/1998	29/7/1998	NONE	MAIL	s boost blithely furiou	lineitem
++	2915	94	7	2	12	11929.08	0	0.03	A	F	18/7/1994	11/6/1994	27/7/1994	TAKE BACK RETURN	RAIL	accounts. slyly final	lineitem
++	1637	5	8	5	25	22625	0.05	0	R	F	7/6/1995	26/3/1995	8/6/1995	COLLECT COD	RAIL	 haggle carefully silent accou	lineitem
++	771	7	4	1	12	10884	0.1	0.08	N	O	18/7/1995	2/8/1995	7/8/1995	COLLECT COD	TRUCK	carefully. pending in	lineitem
++	580	85	6	1	33	32507.64	0.03	0.05	N	O	11/10/1997	19/9/1997	16/10/1997	TAKE BACK RETURN	FOB	y express theodolites cajole carefully 	lineitem
++	5634	175	3	2	22	23653.74	0.02	0.05	N	O	1/9/1996	31/8/1996	5/9/1996	DELIVER IN PERSON	MAIL	silently unusual foxes above the blithely	lineitem
++	130	70	7	5	31	30072.17	0.06	0.05	R	F	1/9/1992	18/7/1992	2/9/1992	TAKE BACK RETURN	RAIL	thily about the ruth	lineitem
++	3107	149	6	1	16	16786.24	0.05	0.04	N	O	30/8/1997	20/10/1997	20/9/1997	TAKE BACK RETURN	REG AIR	regular pinto beans. ironic ideas haggle	lineitem
++	2245	80	8	5	33	32342.64	0.03	0.07	R	F	16/6/1993	5/6/1993	7/7/1993	NONE	MAIL	 across the express reques	lineitem
++	4418	35	1	1	32	29920.96	0.02	0.06	A	F	28/5/1993	2/6/1993	30/5/1993	TAKE BACK RETURN	RAIL	ly. bold pinto b	lineitem
++	5957	6	1	6	41	37146	0.1	0.07	R	F	25/3/1994	20/2/1994	31/3/1994	DELIVER IN PERSON	MAIL	es across the regular requests maint	lineitem
++	37	23	8	1	40	36920.8	0.09	0.03	A	F	21/7/1992	1/8/1992	15/8/1992	NONE	REG AIR	luffily regular requests. slyly final acco	lineitem
++	224	151	2	1	16	16818.4	0.04	0	A	F	1/8/1994	30/7/1994	27/8/1994	DELIVER IN PERSON	MAIL	y unusual foxes 	lineitem
++	5831	82	3	3	6	5892.48	0.05	0.07	N	O	29/1/1997	14/1/1997	9/2/1997	NONE	MAIL	ly ironic accounts nag pendin	lineitem
++	2244	51	6	1	3	2853.15	0.02	0.02	A	F	30/4/1993	15/3/1993	19/5/1993	TAKE BACK RETURN	FOB	 beans for the regular platel	lineitem
++	4002	199	3	4	6	6595.14	0.06	0.06	N	O	1/7/1997	15/5/1997	31/7/1997	NONE	MAIL	he slyly iro	lineitem
++	1828	196	7	3	11	12058.09	0.07	0.08	R	F	21/7/1994	28/5/1994	13/8/1994	DELIVER IN PERSON	FOB	 wake blithely 	lineitem
++	2407	64	3	1	14	13496.84	0.04	0.02	N	O	10/10/1998	25/8/1998	27/10/1998	NONE	FOB	l dependencies s	lineitem
++	2692	17	1	1	3	2751.03	0.1	0.04	N	O	25/2/1998	29/1/1998	27/3/1998	TAKE BACK RETURN	MAIL	equests. bold, even foxes haggle slyl	lineitem
++	130	37	F	115717.37	8/5/1992	2-HIGH	Clerk#000000036	0	le slyly unusual, regular packages? express deposits det	orders
++	4421	116	3	7	18	18289.98	0.01	0	N	O	7/6/1997	13/5/1997	10/6/1997	DELIVER IN PERSON	FOB	. regular, s	lineitem
++	2752	199	10	7	38	41769.22	0.08	0	R	F	23/2/1994	23/12/1993	24/3/1994	DELIVER IN PERSON	SHIP	es boost. slyly silent ideas	lineitem
++	577	56	F	34768.68	19/12/1994	5-LOW	Clerk#000000154	0	 deposits engage stealthil	orders
++	5729	12	3	3	50	45600.5	0	0.05	R	F	9/12/1994	31/12/1994	24/12/1994	TAKE BACK RETURN	AIR	ly special sentiments. car	lineitem
++	5281	87	8	4	48	47379.84	0.03	0.05	N	O	31/1/1996	23/12/1995	8/2/1996	TAKE BACK RETURN	REG AIR	ss the furiously 	lineitem
++	63	Customer#000000063	IXRSpVWWZraKII	21	31-952-552-9584	9331.13	AUTOMOBILE	ithely even accounts detect slyly above the fluffily ir	customer
++	2311	122	1	2	49	50083.88	0.09	0.02	R	F	14/5/1995	11/7/1995	20/5/1995	COLLECT COD	FOB	ideas sleep	lineitem
++	3970	5	8	7	46	41630	0.08	0.08	R	F	2/5/1992	12/5/1992	10/5/1992	COLLECT COD	MAIL	ix slyly. quickly silen	lineitem
++	3910	64	O	47272.67	26/8/1996	3-MEDIUM	Clerk#000000270	0	ickly. furiously final packag	orders
++	5219	135	6	1	2	2070.26	0.08	0	N	O	26/6/1997	29/4/1997	8/7/1997	TAKE BACK RETURN	FOB	 blithely according to the stea	lineitem
++	2564	77	F	3967.47	9/9/1994	2-HIGH	Clerk#000000718	0	usly regular pinto beans. orbits wake carefully. slyly e	orders
++	2694	108	9	5	10	10081	0.08	0.08	N	O	23/6/1996	28/5/1996	27/6/1996	COLLECT COD	REG AIR	fluffily fluffy accounts. even packages hi	lineitem
++	3170	40	6	1	12	11280.48	0.03	0.03	N	O	12/2/1998	17/1/1998	24/2/1998	NONE	TRUCK	ing accounts along the speci	lineitem
++	3079	188	9	5	2	2176.36	0.1	0	N	O	27/12/1997	25/10/1997	8/1/1998	COLLECT COD	SHIP	y regular asymptotes doz	lineitem
++	5221	13	O	71968.1	9/6/1995	4-NOT SPECIFIED	Clerk#000000324	0	lar accounts above the sl	orders
++	2630	85	F	127132.51	24/10/1992	5-LOW	Clerk#000000712	0	inal theodolites. ironic instructions s	orders
++	3525	138	9	2	27	28029.51	0.03	0.03	N	O	30/12/1995	23/1/1996	2/1/1996	DELIVER IN PERSON	SHIP	y slyly special asymptotes	lineitem
++	3840	73	4	3	45	43788.15	0.02	0.05	N	O	12/10/1998	12/10/1998	28/10/1998	TAKE BACK RETURN	FOB	onic, even packages are. pe	lineitem
++	673	71	10	1	22	21363.54	0.03	0.02	R	F	15/3/1994	27/4/1994	29/3/1994	TAKE BACK RETURN	TRUCK	 the regular, even requests. carefully fin	lineitem
++	1509	20	4	4	11	10120.22	0.03	0.08	R	F	4/11/1993	3/10/1993	14/11/1993	TAKE BACK RETURN	FOB	ily ironic packages nod carefully.	lineitem
++	2497	175	5	5	28	30104.76	0.04	0.05	A	F	10/11/1992	30/9/1992	18/11/1992	DELIVER IN PERSON	MAIL	hely bold ideas. unusual instructions ac	lineitem
++	771	42	3	4	7	6594.28	0.06	0.02	N	O	18/6/1995	31/8/1995	20/6/1995	NONE	REG AIR	theodolites after the fluffily express 	lineitem
++	4871	140	6	7	10	10401.4	0.1	0.02	N	O	13/7/1995	19/8/1995	29/7/1995	NONE	REG AIR	p ironic theodolites. slyly even platel	lineitem
++	1954	152	7	1	31	32616.65	0.06	0.06	N	O	18/8/1997	7/7/1997	3/9/1997	DELIVER IN PERSON	RAIL	against the packages. bold, ironic e	lineitem
++	2182	132	8	1	27	27867.51	0.02	0.07	R	F	10/5/1994	4/7/1994	4/6/1994	DELIVER IN PERSON	SHIP	en platele	lineitem
++	2944	17	7	4	23	21091.23	0.02	0.03	N	O	12/1/1998	3/12/1997	17/1/1998	TAKE BACK RETURN	MAIL	 excuses? regular platelets e	lineitem
++	4960	149	8	3	9	9442.26	0.01	0.03	A	F	20/3/1995	5/5/1995	17/4/1995	COLLECT COD	RAIL	e blithely carefully fina	lineitem
++	1186	101	2	3	20	20022	0.07	0.07	N	O	20/8/1996	23/10/1996	5/9/1996	COLLECT COD	FOB	ely alongside of the blithel	lineitem
++	135	Customer#000000135	oZK,oC0 fdEpqUML	19	29-399-293-6241	8732.91	FURNITURE	 the slyly final accounts. deposits cajole carefully. carefully sly packag	customer
++	1542	3	6	2	12	10836	0.09	0.06	R	F	29/10/1993	2/11/1993	9/11/1993	TAKE BACK RETURN	RAIL	carefully 	lineitem
++	5605	173	2	3	3	3219.51	0.01	0.02	N	O	1/9/1996	2/10/1996	20/9/1996	TAKE BACK RETURN	AIR	posits. accounts boost. t	lineitem
++	1382	23	4	7	5	4615.1	0.07	0.01	R	F	2/10/1993	29/9/1993	12/10/1993	DELIVER IN PERSON	REG AIR	ter the carefully final excuses. blit	lineitem
++	581	101	6	3	49	49053.9	0.1	0.02	N	O	27/2/1997	24/4/1997	10/3/1997	TAKE BACK RETURN	MAIL	. slyly regular pinto beans acr	lineitem
++	4231	142	3	1	47	48980.58	0.09	0.03	N	O	27/11/1997	26/1/1998	17/12/1997	NONE	REG AIR	hely along the silent at	lineitem
++	935	135	1	3	36	37264.68	0.06	0	N	O	5/11/1997	5/12/1997	25/11/1997	TAKE BACK RETURN	AIR	leep about the exp	lineitem
++	1093	101	O	79189.58	31/7/1997	4-NOT SPECIFIED	Clerk#000000159	0	 after the carefully ironic requests. carefully ironic packages wake fluffil	orders
++	4034	54	5	3	43	41024.15	0.1	0.03	A	F	29/11/1993	8/1/1994	10/12/1993	DELIVER IN PERSON	FOB	posits wake carefully af	lineitem
++	5762	175	6	1	6	6451.02	0.05	0.02	N	O	7/4/1997	25/3/1997	2/5/1997	NONE	AIR	ironic dependencies doze carefu	lineitem
++	5760	166	1	5	6	6396.96	0.03	0.07	R	F	9/6/1994	6/7/1994	16/6/1994	DELIVER IN PERSON	MAIL	 shall have to cajole along the 	lineitem
++	2371	101	4	3	11	11012.1	0.05	0.02	N	O	25/2/1998	6/4/1998	23/3/1998	TAKE BACK RETURN	TRUCK	requests. regular pinto beans wake. car	lineitem
++	2307	165	6	4	19	20238.04	0.08	0.06	R	F	23/10/1993	9/9/1993	9/11/1993	TAKE BACK RETURN	TRUCK	olites haggle furiously around the 	lineitem
++	1857	167	6	2	40	42686.4	0.1	0	R	F	15/2/1993	8/3/1993	21/2/1993	NONE	AIR	slyly close d	lineitem
++	261	97	9	6	20	19941.8	0.06	0.06	A	F	15/10/1993	5/9/1993	7/11/1993	NONE	AIR	ing to the special, ironic deposi	lineitem
++	614	196	8	5	30	32885.7	0.08	0.07	R	F	16/1/1993	8/2/1993	12/2/1993	TAKE BACK RETURN	FOB	tructions are f	lineitem
++	4102	1	6	5	32	28832	0.08	0.01	N	O	14/5/1996	29/4/1996	29/5/1996	NONE	RAIL	 the even requests; regular pinto	lineitem
++	359	132	8	3	17	17546.21	0.07	0.06	A	F	31/1/1995	18/3/1995	10/2/1995	COLLECT COD	SHIP	sts according to the blithely	lineitem
++	1988	109	O	117132.72	6/10/1995	4-NOT SPECIFIED	Clerk#000000011	0	ly ironic dolphins serve quickly busy accounts. bu	orders
++	3172	135	6	4	28	28983.64	0.08	0.04	R	F	9/7/1992	14/7/1992	16/7/1992	NONE	MAIL	regular ideas. packages are furi	lineitem
++	1475	144	1	3	30	31324.2	0.03	0.02	N	O	11/3/1998	30/12/1997	15/3/1998	COLLECT COD	REG AIR	 regular theodolites mold across th	lineitem
++	199	134	5	2	30	31023.9	0.08	0.05	N	O	27/3/1996	29/5/1996	14/4/1996	NONE	TRUCK	ilent packages doze quickly. thinly 	lineitem
++	2722	35	F	50328.84	9/4/1994	5-LOW	Clerk#000000638	0	rding to the carefully quick deposits. bli	orders
++	5351	122	O	76799.25	11/5/1998	1-URGENT	Clerk#000000443	0	to beans sleep furiously after the carefully even	orders
++	5191	183	4	4	7	7582.26	0.01	0.04	A	F	24/3/1995	30/1/1995	30/3/1995	NONE	RAIL	eposits. express	lineitem
++	5952	71	2	3	43	41756.01	0.01	0.01	N	O	29/6/1997	6/6/1997	15/7/1997	COLLECT COD	MAIL	posits sleep furiously quickly final p	lineitem
++	2631	37	F	63103.32	24/9/1993	5-LOW	Clerk#000000833	0	 quickly unusual deposits doubt around 	orders
++	4229	96	9	1	44	43827.96	0.02	0.05	N	O	29/5/1998	12/5/1998	16/6/1998	DELIVER IN PERSON	AIR	s. carefully e	lineitem
++	26	Customer#000000026	8ljrc5ZeMl7UciP	22	32-363-455-4837	5182.05	AUTOMOBILE	c requests use furiously ironic requests. slyly ironic dependencies us	customer
++	3970	154	6	3	10	10541.5	0.1	0.04	A	F	1/7/1992	31/5/1992	2/7/1992	NONE	AIR	 special packages wake after the final br	lineitem
++	4327	190	1	5	39	42517.41	0.01	0	N	O	23/6/1995	18/4/1995	13/7/1995	TAKE BACK RETURN	FOB	kages against the blit	lineitem
++	4230	152	3	7	18	18938.7	0.1	0.04	R	F	23/6/1992	10/5/1992	4/7/1992	COLLECT COD	SHIP	 the final acco	lineitem
++	5252	68	5	5	24	23233.44	0.04	0.05	N	O	11/5/1996	17/4/1996	12/5/1996	COLLECT COD	REG AIR	posits after the fluffi	lineitem
++	1028	32	8	4	26	24232.78	0.07	0.02	A	F	18/3/1994	8/2/1994	19/3/1994	TAKE BACK RETURN	RAIL	ronic platelets. carefully f	lineitem
++	1984	70	7	2	35	33952.45	0.01	0.07	N	O	18/5/1998	4/5/1998	1/6/1998	COLLECT COD	RAIL	tes. quickly pending packages haggle boldl	lineitem
++	2401	182	3	1	39	42205.02	0	0.03	N	O	29/9/1997	21/10/1997	17/10/1997	DELIVER IN PERSON	FOB	ould affix 	lineitem
++	4454	160	8	6	20	21203.2	0.1	0.03	A	F	8/4/1994	6/3/1994	26/4/1994	DELIVER IN PERSON	TRUCK	quickly regular requests. furiously	lineitem
++	2466	19	F	161625.5	6/3/1994	1-URGENT	Clerk#000000424	0	c pinto beans. express deposits wake quickly. even, final courts nag. package	orders
++	4322	60	8	6	39	37442.34	0.09	0.08	N	O	16/3/1998	21/5/1998	11/4/1998	COLLECT COD	AIR	ccounts. dogged pin	lineitem
++	5090	2	9	3	22	19844	0.09	0.05	N	O	3/7/1997	12/4/1997	26/7/1997	NONE	REG AIR	ular requests su	lineitem
++	3109	124	F	216104.85	24/7/1993	5-LOW	Clerk#000000936	0	bold requests sleep quickly according to the slyly final	orders
++	2944	170	5	3	2	2140.34	0.06	0.07	N	O	13/12/1997	1/12/1997	8/1/1998	DELIVER IN PERSON	REG AIR	luffily expr	lineitem
++	2919	102	5	1	2	2004.2	0.03	0.05	R	F	28/12/1993	23/2/1994	18/1/1994	COLLECT COD	TRUCK	re slyly. regular ideas detect furiousl	lineitem
++	5218	83	4	1	43	42272.44	0.05	0.04	A	F	4/8/1992	12/9/1992	17/8/1992	DELIVER IN PERSON	SHIP	k theodolites. express, even id	lineitem
++	1699	135	6	2	17	17597.21	0.07	0.02	R	F	12/1/1994	12/3/1994	8/2/1994	NONE	AIR	haggle blithely slyly	lineitem
++	3457	144	1	6	45	46986.3	0.08	0.01	N	O	12/8/1995	18/7/1995	23/8/1995	TAKE BACK RETURN	SHIP	 packages. care	lineitem
++	4385	122	O	39190.62	6/8/1996	2-HIGH	Clerk#000000597	0	ully final requests. ironic, even dolphins above the regular 	orders
++	807	117	7	1	49	49838.39	0	0	R	F	5/12/1993	13/1/1994	25/12/1993	COLLECT COD	REG AIR	 furiously according to the un	lineitem
++	2470	110	5	1	12	12121.32	0.06	0.06	N	O	12/7/1997	24/5/1997	17/7/1997	TAKE BACK RETURN	FOB	l accounts. deposits nag daringly. express,	lineitem
++	419	9	6	4	15	13635	0.01	0.02	N	O	9/1/1997	22/12/1996	25/1/1997	COLLECT COD	FOB	of the careful, thin theodolites. quickly s	lineitem
++	2437	190	1	2	26	28344.94	0	0.04	A	F	25/6/1993	22/5/1993	7/7/1993	DELIVER IN PERSON	REG AIR	lyly regular accounts.	lineitem
++	736	47	O	130204.17	21/6/1998	5-LOW	Clerk#000000881	0	refully of the final pi	orders
++	167	102	3	1	28	28058.8	0.06	0.01	R	F	19/2/1993	16/2/1993	3/3/1993	DELIVER IN PERSON	TRUCK	sly during the u	lineitem
++	3811	182	3	5	23	24890.14	0	0.04	N	O	13/8/1998	9/7/1998	29/8/1998	COLLECT COD	AIR	nstructions sleep quickly. slyly final 	lineitem
++	3717	106	7	7	28	28170.8	0.03	0.01	N	O	25/7/1998	12/8/1998	16/8/1998	COLLECT COD	RAIL	ts sleep q	lineitem
++	4547	188	9	1	15	16322.7	0.1	0.04	A	F	8/12/1993	15/11/1993	22/12/1993	NONE	REG AIR	ets haggle. regular dinos affix fu	lineitem
++	995	173	1	1	15	16097.55	0.08	0.05	N	O	30/6/1995	4/8/1995	27/7/1995	NONE	REG AIR	uses. fluffily fina	lineitem
++	3140	7	4	1	21	19047	0.08	0.02	R	F	12/4/1992	31/5/1992	21/4/1992	NONE	REG AIR	 furiously sly excuses according to the	lineitem
++	5857	118	2	4	12	12217.32	0.03	0.08	N	O	24/1/1998	27/12/1997	10/2/1998	TAKE BACK RETURN	AIR	counts. express, final	lineitem
++	2627	149	F	26798.65	24/3/1992	3-MEDIUM	Clerk#000000181	0	s. silent, ruthless requests	orders
++	2951	73	3	4	21	20434.47	0.06	0.08	N	O	12/4/1996	27/4/1996	14/4/1996	DELIVER IN PERSON	REG AIR	nt instructions toward the f	lineitem
++	5089	158	6	1	4	4232.6	0.05	0.06	R	F	18/9/1992	28/9/1992	13/10/1992	DELIVER IN PERSON	TRUCK	nts sleep blithely 	lineitem
++	1824	69	4	2	40	38762.4	0.1	0.03	A	F	8/5/1994	24/7/1994	6/6/1994	NONE	FOB	es mold furiously final instructions. s	lineitem
++	964	113	4	2	1	1013.11	0.02	0.05	N	O	20/8/1995	29/7/1995	10/9/1995	DELIVER IN PERSON	REG AIR	unts. quickly even platelets s	lineitem
++	451	100	O	104664.4	25/5/1998	5-LOW	Clerk#000000048	0	nic pinto beans. theodolites poach carefully; 	orders
++	1858	14	8	1	33	30162.33	0.01	0.02	N	O	28/12/1997	3/2/1998	13/1/1998	NONE	RAIL	tect along the slyly final	lineitem
++	1281	62	F	165454.51	11/12/1994	1-URGENT	Clerk#000000430	0	counts. carefully pending accounts eat 	orders
++	28	Customer#000000028	iVyg0daQ,Tha8x2WPWA9m2529m	8	18-774-241-1462	1007.18	FURNITURE	 along the regular deposits. furiously final pac	customer
++	3040	112	F	119201.64	12/4/1993	3-MEDIUM	Clerk#000000544	0	carefully special packages. blithe	orders
++	3457	167	4	7	9	9604.44	0.04	0	R	F	29/5/1995	30/6/1995	12/6/1995	DELIVER IN PERSON	FOB	quests. foxes sleep quickly	lineitem
++	4100	74	5	1	4	3896.28	0.03	0.03	N	O	20/6/1996	29/4/1996	21/6/1996	TAKE BACK RETURN	FOB	lyly regular, bold requ	lineitem
++	2917	41	10	5	37	34818.48	0.04	0.01	N	O	12/12/1997	3/2/1998	23/12/1997	COLLECT COD	RAIL	dependencies. express 	lineitem
++	515	148	1	2	38	39829.32	0.1	0.07	A	F	19/9/1993	12/11/1993	3/10/1993	DELIVER IN PERSON	SHIP	ays. furiously express requests haggle furi	lineitem
++	5863	65	F	67941.54	22/11/1993	3-MEDIUM	Clerk#000000774	0	ets about the slyly pending ideas sleep according to the blithely 	orders
++	96	124	7	1	23	23554.76	0.1	0.06	A	F	19/7/1994	29/6/1994	25/7/1994	DELIVER IN PERSON	TRUCK	ep-- carefully reg	lineitem
++	1728	27	8	4	34	31518.68	0.08	0.05	N	O	28/8/1996	20/7/1996	12/9/1996	DELIVER IN PERSON	MAIL	special req	lineitem
++	2021	166	3	2	19	20257.04	0.04	0.05	N	O	14/8/1995	5/9/1995	23/8/1995	NONE	RAIL	 above the slyly fl	lineitem
++	1444	134	F	207907.6	6/12/1994	3-MEDIUM	Clerk#000000783	0	ove the bold accounts cajole fluffily about	orders
++	3618	10	O	136954.81	13/12/1997	3-MEDIUM	Clerk#000000894	0	. ideas run carefully. thin, pending 	orders
++	2503	7	F	183671.08	20/6/1993	3-MEDIUM	Clerk#000000294	0	ly even packages was. ironic, regular deposits unwind furiously across the p	orders
++	1058	140	6	1	24	24963.36	0.08	0.04	A	F	9/7/1993	28/5/1993	22/7/1993	DELIVER IN PERSON	TRUCK	fully ironic accounts. express accou	lineitem
++	229	84	5	1	20	19681.6	0.02	0.03	R	F	11/1/1994	31/1/1994	26/1/1994	DELIVER IN PERSON	REG AIR	le. instructions use across the quickly fin	lineitem
++	2881	100	F	45695.84	10/5/1992	5-LOW	Clerk#000000864	0	uriously. slyly express requests according to the silent dol	orders
++	1955	158	6	3	41	43384.15	0.08	0.06	A	F	1/8/1992	4/6/1992	7/8/1992	COLLECT COD	AIR	 carefully against the furiously reg	lineitem
++	1861	68	5	1	7	6776.42	0.08	0.05	A	F	14/1/1994	3/4/1994	16/1/1994	COLLECT COD	RAIL	s foxes. slyly	lineitem
++	1218	140	6	1	16	16642.24	0.04	0.07	A	F	26/6/1994	7/8/1994	30/6/1994	TAKE BACK RETURN	FOB	ven realms be	lineitem
++	1506	114	4	2	30	30423.3	0.07	0.02	A	F	22/11/1992	25/10/1992	4/12/1992	DELIVER IN PERSON	FOB	deposits cajole 	lineitem
++	3425	120	1	1	11	11221.32	0.03	0.08	N	O	24/4/1996	29/5/1996	23/5/1996	DELIVER IN PERSON	FOB	ckly final deposits use quickly?	lineitem
++	5345	114	4	4	37	37522.07	0.01	0.01	N	O	1/11/1997	9/10/1997	26/11/1997	DELIVER IN PERSON	AIR	 along the ironically fina	lineitem
++	101	119	9	1	49	49936.39	0.1	0	N	O	21/6/1996	27/5/1996	29/6/1996	DELIVER IN PERSON	REG AIR	ts-- final packages sleep furiousl	lineitem
++	4711	145	6	2	15	15677.1	0.08	0.07	N	O	9/6/1998	30/7/1998	18/6/1998	COLLECT COD	SHIP	 beans wake. deposits could bo	lineitem
++	966	14	O	120516.93	30/4/1998	2-HIGH	Clerk#000000239	0	special deposits. furious	orders
++	2499	46	3	2	48	45409.92	0.09	0.03	N	O	14/10/1995	12/12/1995	11/11/1995	DELIVER IN PERSON	AIR	ronic ideas cajole quickly requests. caref	lineitem
++	1636	85	6	1	2	1970.16	0.09	0.03	N	O	26/9/1997	22/8/1997	5/10/1997	NONE	TRUCK	nal foxes cajole above the blithely reg	lineitem
++	4423	60	5	2	2	1920.12	0.07	0.04	A	F	4/3/1995	4/4/1995	8/3/1995	TAKE BACK RETURN	REG AIR	old sheaves sleep	lineitem
++	1125	25	F	80438.38	27/10/1994	2-HIGH	Clerk#000000510	0	ithely final requests. i	orders
++	142	Customer#000000142	AnJ5lxtLjioClr2khl9pb8NLxG2,	9	19-407-425-2584	2209.81	AUTOMOBILE	. even, express theodolites upo	customer
++	3842	28	F	131447.03	9/4/1992	5-LOW	Clerk#000000418	0	silent ideas. final deposits use furiously. blithely express excuses cajole fu	orders
++	4129	56	8	1	32	30593.6	0.03	0.04	A	F	16/9/1993	25/8/1993	25/9/1993	TAKE BACK RETURN	MAIL	ckages haggl	lineitem
++	3333	113	4	4	49	49642.39	0.07	0.07	R	F	2/10/1992	30/11/1992	12/10/1992	DELIVER IN PERSON	MAIL	riously ironic r	lineitem
++	5920	119	F	142767.26	20/11/1994	2-HIGH	Clerk#000000081	0	ns: even ideas cajole slyly among the packages. never ironic patterns	orders
++	1668	75	5	3	42	40952.94	0.08	0.01	N	O	9/8/1997	8/9/1997	31/8/1997	NONE	FOB	ole carefully excuses. final	lineitem
++	2182	179	9	5	37	39929.29	0.06	0.02	A	F	8/4/1994	29/6/1994	18/4/1994	TAKE BACK RETURN	TRUCK	ges. blithely ironic	lineitem
++	261	47	F	201003.12	29/6/1993	3-MEDIUM	Clerk#000000310	0	ully fluffily brave instructions. furiousl	orders
++	903	9	2	2	35	31815	0.06	0.05	N	O	18/9/1995	21/8/1995	12/10/1995	TAKE BACK RETURN	TRUCK	rets wake fin	lineitem
++	5504	160	2	3	29	30744.64	0.05	0.03	A	F	28/1/1993	13/2/1993	27/2/1993	NONE	SHIP	ajole carefully. care	lineitem
++	2277	198	10	3	4	4392.76	0.05	0.06	R	F	27/4/1995	16/3/1995	29/4/1995	TAKE BACK RETURN	SHIP	. quickly unusual deposi	lineitem
++	610	95	7	6	5	4975.45	0	0.07	N	O	11/8/1995	22/10/1995	26/8/1995	TAKE BACK RETURN	FOB	n pinto beans. iro	lineitem
++	3074	37	8	1	50	46851.5	0.08	0.08	A	F	31/1/1993	15/12/1992	20/2/1993	NONE	AIR	furiously pending requests haggle s	lineitem
++	4485	6	7	5	47	42582	0.08	0.04	R	F	11/3/1995	11/1/1995	21/3/1995	TAKE BACK RETURN	RAIL	luffily pending acc	lineitem
++	1921	88	F	57584.12	18/1/1994	3-MEDIUM	Clerk#000000293	0	counts. slyly quiet requests along the ruthlessly regular accounts are 	orders
++	3169	200	3	2	17	18703.4	0.05	0.04	R	F	2/3/1994	21/1/1994	3/3/1994	DELIVER IN PERSON	TRUCK	usly regular packages. ironi	lineitem
++	1925	135	1	2	35	36229.55	0.06	0.06	R	F	11/5/1992	10/4/1992	14/5/1992	TAKE BACK RETURN	AIR	counts. carefully ironic packages boost ab	lineitem
++	2755	118	F	101202.18	7/2/1992	4-NOT SPECIFIED	Clerk#000000177	0	ously according to the sly foxes. blithely regular pinto bean	orders
++	5411	56	7	3	5	4780.25	0.1	0.01	N	O	12/9/1997	3/8/1997	23/9/1997	DELIVER IN PERSON	FOB	 bold, ironic theodo	lineitem
++	326	157	9	6	41	43343.15	0.02	0	N	O	5/7/1995	23/7/1995	20/7/1995	TAKE BACK RETURN	REG AIR	to beans wake before the furiously re	lineitem
++	1188	179	10	3	41	44245.97	0.07	0.04	N	O	29/6/1996	21/5/1996	21/7/1996	TAKE BACK RETURN	TRUCK	althy packages. fluffily unusual ideas h	lineitem
++	1507	40	6	2	33	31021.32	0.04	0.02	A	F	29/10/1993	23/12/1993	14/11/1993	DELIVER IN PERSON	REG AIR	 asymptotes nag furiously above t	lineitem
++	3207	134	5	6	32	33092.16	0.03	0.05	N	O	19/4/1998	1/5/1998	8/5/1998	COLLECT COD	FOB	l deposits wake beyond the carefully	lineitem
++	771	7	8	3	14	12698	0.02	0.05	N	O	31/7/1995	13/8/1995	7/8/1995	DELIVER IN PERSON	AIR	r, final packages are slyly iro	lineitem
++	2437	2	7	3	23	20746	0.01	0	A	F	15/8/1993	28/6/1993	23/8/1993	TAKE BACK RETURN	SHIP	s deposits. pendi	lineitem
++	1956	139	5	3	39	40526.07	0.08	0.02	A	F	24/9/1992	26/11/1992	15/10/1992	DELIVER IN PERSON	REG AIR	r theodolites sleep above the b	lineitem
++	1536	194	5	1	5	5470.95	0.08	0.03	N	O	8/2/1997	11/3/1997	2/3/1997	COLLECT COD	MAIL	requests sleep pe	lineitem
++	2466	155	7	7	35	36930.25	0.1	0	A	F	1/6/1994	27/5/1994	21/6/1994	COLLECT COD	AIR	 packages detect carefully: ironically sl	lineitem
++	1057	85	6	3	21	20686.68	0.03	0.04	A	F	28/2/1992	1/5/1992	10/3/1992	NONE	REG AIR	ar orbits boost bli	lineitem
++	3878	88	O	59989.66	23/3/1997	1-URGENT	Clerk#000000314	0	e carefully regular platelets. special, express dependencies slee	orders
++	3333	108	1	3	38	38307.8	0.05	0.05	A	F	30/10/1992	3/11/1992	4/11/1992	NONE	MAIL	ccounts promise bl	lineitem
++	4614	73	3	5	24	23353.68	0.07	0.06	N	O	1/7/1996	24/6/1996	8/7/1996	COLLECT COD	REG AIR	regular, even	lineitem
++	5094	143	10	1	19	19819.66	0.03	0.03	R	F	31/3/1993	12/6/1993	4/4/1993	NONE	AIR	ronic foxes. furi	lineitem
++	3170	89	10	3	27	26705.16	0	0.05	N	O	25/2/1998	29/1/1998	27/2/1998	COLLECT COD	AIR	efully bold foxes. regular, ev	lineitem
++	1191	49	6	1	29	27522.16	0	0.04	N	O	24/1/1996	28/1/1996	17/2/1996	COLLECT COD	AIR	 regular pin	lineitem
++	4038	94	O	155045.39	6/1/1996	1-URGENT	Clerk#000000272	0	re slyly. silent requests wake quickly. regular packages play quickly 	orders
++	1153	121	O	220727.97	18/4/1996	5-LOW	Clerk#000000059	0	 across the pending deposi	orders
++	613	159	10	4	7	7414.05	0.02	0.04	N	O	7/9/1995	2/8/1995	16/9/1995	DELIVER IN PERSON	MAIL	ously blithely final pinto beans. regula	lineitem
++	2786	50	3	5	43	40852.15	0.06	0.03	R	F	22/4/1992	13/5/1992	29/4/1992	NONE	RAIL	ons. theodolites after	lineitem
++	5857	58	9	1	25	23951.25	0.03	0.02	N	O	2/12/1997	17/12/1997	8/12/1997	DELIVER IN PERSON	REG AIR	ding platelets. pending excu	lineitem
++	2275	91	4	2	11	10901.99	0.08	0.03	A	F	16/1/1993	10/12/1992	25/1/1993	COLLECT COD	REG AIR	ost across the never express instruction	lineitem
++	4741	127	F	180692.9	7/7/1992	4-NOT SPECIFIED	Clerk#000000983	0	ly bold deposits are slyly about the r	orders
++	5313	17	1	1	34	31178.34	0.1	0.02	N	O	7/8/1997	12/8/1997	24/8/1997	DELIVER IN PERSON	FOB	ccording to the blithely final account	lineitem
++	1285	22	3	1	12	11064.24	0	0.06	A	F	21/6/1992	16/8/1992	12/7/1992	COLLECT COD	MAIL	ss foxes. blithe theodolites cajole slyly	lineitem
++	1413	42	9	3	6	5652.24	0.04	0.02	N	O	7/9/1997	30/7/1997	21/9/1997	TAKE BACK RETURN	MAIL	lithely excuses. f	lineitem
++	74	Customer#000000074	IkJHCA3ZThF7qL7VKcrU nRLl,kylf 	4	14-199-862-7209	2764.43	MACHINERY	onic accounts. blithely slow packages would haggle carefully. qui	customer
++	1924	40	1	7	21	19740.84	0.09	0.03	N	O	21/9/1996	12/11/1996	2/10/1996	TAKE BACK RETURN	AIR	 blithely reg	lineitem
++	2913	22	5	2	22	20284.44	0.1	0.07	N	O	18/9/1997	11/8/1997	2/10/1997	COLLECT COD	MAIL	riously pending realms. blithely even pac	lineitem
++	133	44	O	80437.72	29/11/1997	1-URGENT	Clerk#000000738	0	usly final asymptotes 	orders
++	1157	49	2	1	16	15184.64	0.06	0	N	O	12/4/1998	9/3/1998	23/4/1998	DELIVER IN PERSON	MAIL	tions hang	lineitem
++	1606	174	3	2	35	37595.95	0	0.02	N	O	20/6/1997	19/6/1997	22/6/1997	COLLECT COD	TRUCK	carefully sil	lineitem
++	2599	42	5	2	26	24493.04	0.03	0.04	N	O	8/11/1996	21/12/1996	24/11/1996	TAKE BACK RETURN	AIR	nag carefully 	lineitem
++	2240	86	7	4	10	9860.8	0.09	0	A	F	25/5/1992	14/4/1992	23/6/1992	DELIVER IN PERSON	REG AIR	are across the ironic packages.	lineitem
++	807	155	10	2	49	51702.35	0.01	0.06	A	F	17/1/1994	24/1/1994	22/1/1994	COLLECT COD	TRUCK	y regular requests haggle.	lineitem
++	1542	58	9	1	37	35447.85	0.07	0.06	A	F	15/12/1993	17/10/1993	7/1/1994	TAKE BACK RETURN	REG AIR	e blithely unusual accounts. quic	lineitem
++	2177	55	3	4	34	32471.7	0.05	0.07	N	O	3/2/1997	10/4/1997	21/2/1997	COLLECT COD	REG AIR	tes are doggedly quickly	lineitem
++	5792	178	8	1	34	36657.78	0.08	0.07	R	F	23/5/1993	25/6/1993	12/6/1993	NONE	RAIL	requests are against t	lineitem
++	677	124	F	147915.68	24/11/1993	3-MEDIUM	Clerk#000000824	0	uriously special pinto beans cajole carefully. fi	orders
++	4769	69	10	4	45	43607.7	0.08	0.06	R	F	1/6/1995	13/7/1995	4/6/1995	TAKE BACK RETURN	RAIL	accounts are. even accounts sleep	lineitem
++	3015	66	7	6	18	17389.08	0.02	0.03	R	F	10/10/1992	19/11/1992	18/10/1992	TAKE BACK RETURN	MAIL	equests wake fluffil	lineitem
++	3556	31	2	2	43	40034.29	0.02	0.06	R	F	18/1/1993	9/11/1992	4/2/1993	NONE	FOB	wake carefull	lineitem
++	3266	38	4	2	43	40335.29	0.06	0.07	R	F	4/5/1995	30/5/1995	11/5/1995	COLLECT COD	AIR	ular asymptotes use careful	lineitem
++	3207	83	4	5	8	7864.64	0	0.06	N	O	13/6/1998	26/4/1998	11/7/1998	COLLECT COD	SHIP	y. final pint	lineitem
++	4452	1	8	2	47	42347	0.01	0.06	A	F	8/10/1994	9/8/1994	9/10/1994	TAKE BACK RETURN	TRUCK	ts. slyly regular cour	lineitem
++	610	146	7	5	39	40799.46	0.08	0.05	N	O	30/10/1995	21/10/1995	11/11/1995	TAKE BACK RETURN	REG AIR	counts. ironic warhorses are 	lineitem
++	455	157	9	1	42	44400.3	0.1	0.02	N	O	26/1/1997	10/1/1997	22/2/1997	DELIVER IN PERSON	REG AIR	around the quickly blit	lineitem
++	4963	34	O	54175.35	7/11/1996	3-MEDIUM	Clerk#000000754	0	ully unusual epitaphs nod s	orders
++	3873	140	6	3	29	30164.06	0.01	0.04	N	O	22/6/1998	20/5/1998	5/7/1998	COLLECT COD	REG AIR	olphins af	lineitem
++	1703	166	5	1	36	38381.76	0.09	0.01	R	F	22/4/1993	5/3/1993	24/4/1993	DELIVER IN PERSON	SHIP	riously express 	lineitem
++	5795	37	F	35514.45	5/5/1992	2-HIGH	Clerk#000000581	0	 even instructions x-ray ironic req	orders
++	2661	67	6	3	11	10637.66	0	0.08	N	O	14/4/1997	11/2/1997	5/5/1997	TAKE BACK RETURN	FOB	equests are a	lineitem
++	3111	132	3	4	31	31996.03	0	0.08	N	O	26/10/1995	26/9/1995	2/11/1995	TAKE BACK RETURN	MAIL	kages detect express attainments	lineitem
++	2023	118	F	144123.37	6/5/1992	5-LOW	Clerk#000000137	0	ular courts engage according to the	orders
++	2277	137	8	1	38	39410.94	0.03	0.07	R	F	23/4/1995	25/3/1995	20/5/1995	TAKE BACK RETURN	TRUCK	fully bold	lineitem
++	3621	44	3	4	20	18880.8	0.05	0.04	R	F	27/5/1993	4/7/1993	22/6/1993	TAKE BACK RETURN	SHIP	gular accounts use carefully with	lineitem
++	132	141	8	1	18	18740.52	0	0.08	R	F	10/7/1993	5/8/1993	13/7/1993	NONE	TRUCK	ges. platelets wake furio	lineitem
++	35	121	4	3	7	7147.84	0.06	0.04	N	O	19/1/1996	22/12/1995	29/1/1996	NONE	MAIL	 the carefully regular 	lineitem
++	450	57	9	4	40	38282	0.05	0.03	R	F	20/3/1995	25/5/1995	14/4/1995	NONE	RAIL	ve. asymptote	lineitem
++	5696	59	1	2	46	44116.3	0.01	0	N	O	10/8/1995	8/7/1995	25/8/1995	COLLECT COD	AIR	ter the instruct	lineitem
++	4675	119	10	6	1	1019.11	0.1	0.06	R	F	18/3/1994	14/2/1994	17/4/1994	NONE	SHIP	unts. caref	lineitem
++	4545	63	4	2	27	26002.62	0.01	0.06	R	F	7/2/1993	18/2/1993	18/2/1993	NONE	FOB	ously bold asymptotes! blithely pen	lineitem
++	4900	116	3	1	40	40644.4	0.1	0.03	A	F	2/9/1992	25/9/1992	21/9/1992	COLLECT COD	TRUCK	heodolites. request	lineitem
++	929	175	5	2	44	47307.48	0.02	0	A	F	9/10/1992	20/11/1992	22/10/1992	DELIVER IN PERSON	SHIP	s. excuses cajole. carefully regu	lineitem
++	4836	65	O	78711.4	18/12/1996	1-URGENT	Clerk#000000691	0	c packages cajole carefully through the accounts. careful	orders
++	3906	46	F	145630.76	28/5/1992	3-MEDIUM	Clerk#000000867	0	ironic theodolites haggle blithely above the final re	orders
++	1762	32	8	3	7	6524.21	0.05	0.01	R	F	3/9/1994	2/10/1994	10/9/1994	NONE	REG AIR	uickly express packages wake slyly-- regul	lineitem
++	4675	181	2	3	5	5405.9	0.05	0.05	A	F	16/1/1994	5/1/1994	18/1/1994	DELIVER IN PERSON	RAIL	lent pinto beans	lineitem
++	2753	137	8	5	36	37336.68	0.04	0.08	R	F	15/3/1994	3/1/1994	3/4/1994	DELIVER IN PERSON	SHIP	gle slyly final c	lineitem
++	933	13	4	2	27	24651.27	0.02	0.01	R	F	3/10/1992	2/10/1992	26/10/1992	DELIVER IN PERSON	RAIL	ests. express	lineitem
++	4480	85	F	28658.26	31/3/1994	4-NOT SPECIFIED	Clerk#000000534	0	press, bold deposits boost blit	orders
++	5537	45	8	1	10	9450.4	0.05	0.08	N	O	13/1/1997	25/12/1996	28/1/1997	TAKE BACK RETURN	AIR	 sleep carefully slyly bold depos	lineitem
++	4870	103	F	94534.07	6/8/1994	3-MEDIUM	Clerk#000000911	0	nto beans about the blithely regular d	orders
++	3521	178	8	3	38	40970.46	0	0.08	A	F	15/2/1993	10/12/1992	10/3/1993	COLLECT COD	FOB	ges hang q	lineitem
++	1187	78	8	3	40	39122.8	0.08	0.06	R	F	5/3/1993	31/12/1992	12/3/1993	NONE	TRUCK	ar, brave deposits nag blithe	lineitem
++	423	132	3	1	27	27867.51	0.06	0.03	N	O	20/8/1996	1/8/1996	23/8/1996	TAKE BACK RETURN	SHIP	ccounts. blithely regular pack	lineitem
++	39	95	7	6	40	39803.6	0.06	0.05	N	O	8/12/1996	22/10/1996	1/1/1997	COLLECT COD	AIR	quickly ironic fox	lineitem
++	102	62	7	4	15	14430.9	0.07	0.07	N	O	2/6/1997	13/7/1997	4/6/1997	DELIVER IN PERSON	SHIP	final packages. carefully even excu	lineitem
++	1473	94	O	80624.38	17/3/1997	3-MEDIUM	Clerk#000000960	0	furiously close accoun	orders
++	4327	106	9	2	40	40244	0.07	0.01	N	F	26/5/1995	17/4/1995	18/6/1995	NONE	AIR	quests. packages are after th	lineitem
++	5380	182	3	1	14	15150.52	0.1	0.01	N	O	18/12/1997	3/12/1997	6/1/1998	NONE	RAIL	final platelets.	lineitem
++	7	95	8	3	46	45774.14	0.1	0.07	N	O	15/1/1996	27/3/1996	3/2/1996	COLLECT COD	MAIL	 unusual reques	lineitem
++	1986	105	8	2	10	10051	0.1	0.03	R	F	14/5/1994	21/6/1994	2/6/1994	COLLECT COD	REG AIR	yly into the carefully even 	lineitem
++	3843	15	6	1	7	6405.07	0.1	0.03	N	O	13/2/1997	21/2/1997	20/2/1997	TAKE BACK RETURN	SHIP	slyly even instructions. furiously eve	lineitem
++	2915	81	2	4	43	42186.44	0.06	0.05	R	F	2/6/1994	24/5/1994	6/6/1994	DELIVER IN PERSON	SHIP	into beans dazzle alongside of	lineitem
++	1575	111	1	4	39	39433.29	0.07	0	N	O	23/9/1995	5/11/1995	25/9/1995	TAKE BACK RETURN	TRUCK	 after the unusual asym	lineitem
++	4674	111	5	3	3	3033.33	0.01	0.05	A	F	19/7/1994	28/5/1994	23/7/1994	TAKE BACK RETURN	RAIL	 regular requests na	lineitem
++	3653	64	1	2	29	27957.74	0.07	0.01	A	F	11/4/1994	11/6/1994	29/4/1994	COLLECT COD	RAIL	ording to the special, final	lineitem
++	5666	122	5	1	7	7154.84	0.09	0.08	R	F	10/5/1994	6/4/1994	21/5/1994	NONE	FOB	 ideas. regular packag	lineitem
++	4992	70	7	4	25	24251.75	0.04	0.06	R	F	6/8/1992	11/7/1992	20/8/1992	NONE	SHIP	ly about the never ironic requests. pe	lineitem
++	4896	23	4	4	5	4615.1	0.08	0.02	R	F	2/12/1992	11/11/1992	19/12/1992	COLLECT COD	SHIP	eposits hang carefully. sly	lineitem
++	4322	140	1	2	9	9361.26	0.05	0.08	N	O	18/5/1998	27/4/1998	28/5/1998	COLLECT COD	AIR	ual instructio	lineitem
++	1378	197	10	1	34	37304.46	0.09	0.07	N	O	8/7/1996	23/4/1996	9/7/1996	COLLECT COD	RAIL	le furiously slyly final accounts. careful	lineitem
++	1573	83	4	3	16	15729.28	0.04	0.03	A	F	15/3/1993	16/3/1993	31/3/1993	COLLECT COD	AIR	ely. furiously final requests wake slyl	lineitem
++	3523	25	6	1	15	13875.3	0.06	0.02	N	O	26/6/1998	22/5/1998	24/7/1998	COLLECT COD	REG AIR	se slyly pending, sp	lineitem
++	484	77	6	5	48	46899.36	0	0.05	N	O	5/3/1997	8/2/1997	22/3/1997	TAKE BACK RETURN	MAIL	l, bold packages? even mult	lineitem
++	2086	141	10	2	32	33316.48	0.04	0.06	A	F	15/11/1994	5/1/1995	9/12/1994	TAKE BACK RETURN	TRUCK	e carefully along th	lineitem
++	2497	34	5	3	28	26152.84	0.02	0.08	A	F	2/12/1992	21/11/1992	4/12/1992	DELIVER IN PERSON	REG AIR	ouches. special, regular requests	lineitem
++	710	160	2	7	46	48767.36	0.03	0.07	R	F	16/4/1993	27/3/1993	5/5/1993	COLLECT COD	MAIL	ges use; blithely pending excuses inte	lineitem
++	1671	178	7	4	5	5390.85	0	0	N	O	14/11/1996	20/10/1996	25/11/1996	TAKE BACK RETURN	FOB	luffily regular deposits	lineitem
++	3460	35	1	3	40	37401.2	0.08	0.07	N	O	29/10/1995	10/11/1995	24/11/1995	TAKE BACK RETURN	REG AIR	o the even deposits	lineitem
++	3649	122	3	6	3	3066.36	0.1	0.04	A	F	17/7/1994	10/8/1994	3/8/1994	NONE	FOB	lly bold requests nag; 	lineitem
++	1440	193	6	1	3	3279.57	0.06	0.01	N	O	30/10/1995	17/10/1995	8/11/1995	COLLECT COD	SHIP	instructions boost. fluffily regul	lineitem
++	4836	162	1	1	22	23367.52	0.01	0.03	N	O	3/3/1997	23/2/1997	4/3/1997	NONE	SHIP	al pinto beans. care	lineitem
++	2823	160	5	2	18	19082.88	0	0.03	N	O	11/11/1995	30/10/1995	8/12/1995	TAKE BACK RETURN	TRUCK	 final deposits. furiously regular foxes u	lineitem
++	3911	92	5	3	12	11905.08	0.1	0.05	R	F	4/4/1995	16/4/1995	10/4/1995	COLLECT COD	FOB	uctions. blithely regula	lineitem
++	5415	153	4	7	11	11584.65	0.08	0.06	A	F	21/8/1992	4/9/1992	23/8/1992	NONE	TRUCK	unts maintain carefully unusual	lineitem
++	1890	100	1	2	43	43004.3	0.07	0.03	N	O	30/12/1996	31/1/1997	19/1/1997	DELIVER IN PERSON	FOB	p ironic, express accounts. fu	lineitem
++	1826	176	4	3	14	15066.38	0.05	0.01	A	F	28/4/1992	31/5/1992	25/5/1992	COLLECT COD	TRUCK	uriously bold pinto beans are carefully ag	lineitem
++	1377	20	O	108334.3	24/4/1998	4-NOT SPECIFIED	Clerk#000000625	0	lly across the blithely express accounts. ironic excuses promise carefully de	orders
++	4515	154	6	3	27	28462.05	0.09	0.01	A	F	6/6/1992	8/6/1992	7/6/1992	DELIVER IN PERSON	REG AIR	 against the even re	lineitem
++	5254	158	3	6	34	35977.1	0.09	0.02	R	F	29/8/1992	16/10/1992	20/9/1992	TAKE BACK RETURN	RAIL	 furiously above the furiously 	lineitem
++	2112	64	O	17986.15	5/2/1997	2-HIGH	Clerk#000000351	0	against the slyly even id	orders
++	5254	29	8	5	23	21367.46	0.02	0.06	A	F	16/8/1992	5/9/1992	15/9/1992	COLLECT COD	RAIL	lyly regular accounts. furiously pendin	lineitem
++	2149	19	9	1	12	11028.12	0.05	0.07	R	F	1/6/1993	6/5/1993	11/6/1993	TAKE BACK RETURN	TRUCK	riously bl	lineitem
++	5410	29	4	3	40	37160.8	0.07	0.08	N	O	17/11/1998	2/10/1998	27/11/1998	COLLECT COD	TRUCK	iously special accounts are along th	lineitem
++	931	82	3	4	38	37319.04	0.08	0.08	A	F	6/3/1993	24/2/1993	27/3/1993	DELIVER IN PERSON	RAIL	usly final packages integrate carefully	lineitem
++	5762	25	6	5	28	25900.56	0.02	0.06	N	O	22/2/1997	25/3/1997	24/2/1997	TAKE BACK RETURN	SHIP	ic foxes among the blithely qui	lineitem
++	3587	70	7	5	12	11640.84	0.06	0.03	N	O	30/8/1996	4/7/1996	22/9/1996	DELIVER IN PERSON	RAIL	g the even pinto beans. special,	lineitem
++	2658	18	5	3	13	11934.13	0.07	0.06	N	O	24/10/1995	12/12/1995	14/11/1995	COLLECT COD	FOB	s kindle blithely regular accounts.	lineitem
++	4448	141	2	4	3	3123.42	0.01	0.01	N	O	20/7/1998	10/7/1998	7/8/1998	DELIVER IN PERSON	TRUCK	ronic theod	lineitem
++	2278	97	9	3	22	21935.98	0.03	0	N	O	15/5/1998	14/7/1998	4/6/1998	TAKE BACK RETURN	REG AIR	ep regular accounts. blithely even	lineitem
++	832	29	F	68494.08	19/4/1992	5-LOW	Clerk#000000495	0	xes. bravely regular packages sleep up the furiously bold accou	orders
++	4291	125	8	2	43	44080.16	0.01	0.06	A	F	1/2/1994	27/2/1994	6/2/1994	DELIVER IN PERSON	REG AIR	s. quietly regular 	lineitem
++	935	65	10	2	23	22196.38	0.02	0.01	N	O	11/1/1998	25/11/1997	5/2/1998	COLLECT COD	TRUCK	hes haggle furiously dolphins. qu	lineitem
++	1829	5	6	2	11	9955	0.04	0.05	A	F	18/5/1994	13/6/1994	7/6/1994	COLLECT COD	MAIL	ding orbits	lineitem
++	2626	139	O	84314.51	8/9/1995	4-NOT SPECIFIED	Clerk#000000289	0	gside of the carefully special packages are furiously after the slyly express 	orders
++	4293	181	2	5	1	1081.18	0.06	0.05	N	O	15/11/1996	9/10/1996	26/11/1996	COLLECT COD	AIR	eposits should boost along the 	lineitem
++	1472	1	8	3	6	5406	0.08	0.01	N	O	24/10/1996	19/11/1996	23/11/1996	COLLECT COD	FOB	onic theodolites hinder slyly slyly r	lineitem
++	1925	116	10	3	40	40644.4	0.08	0.08	A	F	17/5/1992	20/5/1992	8/6/1992	TAKE BACK RETURN	AIR	e carefully regul	lineitem
++	4450	96	8	3	45	44824.05	0.08	0.01	N	O	1/9/1997	6/10/1997	19/9/1997	NONE	TRUCK	express ideas are furiously regular	lineitem
++	3010	58	6	3	24	22993.2	0.04	0.07	N	O	9/5/1996	14/3/1996	15/5/1996	DELIVER IN PERSON	RAIL	ar, even reques	lineitem
++	3776	85	F	150349.92	20/11/1992	2-HIGH	Clerk#000000698	0	efully even platelets slee	orders
++	4128	139	O	5472.17	7/10/1995	4-NOT SPECIFIED	Clerk#000000635	0	ctions. dependencies from the slyly regular accounts nag slyly fu	orders
++	5636	70	9	1	18	17461.26	0.05	0.03	R	F	14/5/1995	17/5/1995	12/6/1995	DELIVER IN PERSON	REG AIR	slyly express requests. furiously pen	lineitem
++	5793	43	4	3	8	7544.32	0.07	0.03	N	O	16/8/1997	8/9/1997	28/8/1997	COLLECT COD	AIR	al foxes l	lineitem
++	4961	162	3	3	41	43548.56	0.02	0.02	N	O	15/7/1998	15/6/1998	5/8/1998	TAKE BACK RETURN	REG AIR	ily against the n	lineitem
++	2306	196	9	1	50	54809.5	0.09	0.01	N	O	27/7/1995	26/9/1995	6/8/1995	DELIVER IN PERSON	FOB	y quickly 	lineitem
++	4263	29	4	7	6	5574.12	0.04	0.04	N	O	1/5/1998	2/6/1998	14/5/1998	TAKE BACK RETURN	REG AIR	g the final, regular instructions: 	lineitem
++	5894	8	5	1	23	20884	0.04	0.08	A	F	5/9/1994	27/10/1994	13/9/1994	NONE	TRUCK	 furiously even deposits haggle alw	lineitem
++	5633	100	2	5	48	48004.8	0.01	0.05	N	O	24/6/1998	22/7/1998	18/7/1998	DELIVER IN PERSON	TRUCK	even courts haggle slyly at the requ	lineitem
++	3328	139	10	3	44	45721.72	0.05	0	R	F	3/12/1992	19/12/1992	9/12/1992	TAKE BACK RETURN	FOB	dly quickly final foxes? re	lineitem
++	4065	107	2	4	8	8056.8	0	0.01	R	F	4/10/1994	5/8/1994	25/10/1994	TAKE BACK RETURN	SHIP	ages haggle carefully	lineitem
++	55	Customer#000000055	zIRBR4KNEl HzaiV3a i9n6elrxzDEh8r8pDom	10	20-180-440-8525	4572.11	MACHINERY	ully unusual packages wake bravely bold packages. unusual requests boost deposits! blithely ironic packages ab	customer
++	5413	94	O	224382.57	17/10/1997	1-URGENT	Clerk#000000066	0	e even excuses. always final depen	orders
++	4001	41	10	2	19	17879.76	0.03	0.02	N	O	23/8/1997	15/6/1997	18/9/1997	COLLECT COD	SHIP	ackages. carefully ironi	lineitem
++	3462	133	O	63590.17	17/5/1997	3-MEDIUM	Clerk#000000657	0	uriously express asympto	orders
++	865	87	8	3	15	14806.2	0	0.06	R	F	5/7/1993	25/6/1993	26/7/1993	NONE	SHIP	 deposits sleep quickl	lineitem
++	4130	63	10	2	2	1926.12	0.05	0.06	N	O	19/5/1996	24/4/1996	17/6/1996	TAKE BACK RETURN	RAIL	uriously regular instructions around th	lineitem
++	935	28	3	1	23	21344.46	0.05	0	N	O	11/11/1997	22/11/1997	29/11/1997	COLLECT COD	REG AIR	ular accounts about	lineitem
++	3910	71	10	2	31	30103.17	0.05	0.03	N	O	22/12/1996	14/11/1996	1/1/1997	TAKE BACK RETURN	SHIP	ess instructions. 	lineitem
++	3650	94	8	6	27	26840.43	0.07	0.08	A	F	3/7/1992	23/7/1992	13/7/1992	COLLECT COD	MAIL	ular requests snooze fluffily regular pi	lineitem
++	5728	80	F	85397.04	11/12/1994	4-NOT SPECIFIED	Clerk#000000426	0	furiously express pin	orders
++	641	133	F	120626.49	30/8/1993	5-LOW	Clerk#000000175	0	ents cajole furiously about the quickly silent pac	orders
++	4772	87	8	1	1	987.08	0.1	0	R	F	13/11/1994	25/10/1994	15/11/1994	DELIVER IN PERSON	AIR	ans. slyly even acc	lineitem
++	2852	177	6	1	6	6463.02	0.01	0.01	R	F	2/3/1993	11/4/1993	11/3/1993	TAKE BACK RETURN	RAIL	 accounts above the furiously un	lineitem
++	4934	148	5	4	9	9433.26	0.06	0.08	N	O	10/6/1997	9/4/1997	12/6/1997	TAKE BACK RETURN	REG AIR	 haggle alongside of the	lineitem
++	1860	10	O	9103.4	4/4/1996	3-MEDIUM	Clerk#000000556	0	osits. quickly bold deposits according to 	orders
++	704	190	1	1	40	43607.6	0.05	0.05	N	O	30/1/1997	10/1/1997	20/2/1997	COLLECT COD	AIR	ggle quickly. r	lineitem
++	1410	121	10	1	15	15316.8	0.06	0.05	N	O	25/5/1997	8/7/1997	15/6/1997	NONE	SHIP	 bold packages are fluf	lineitem
++	2311	12	9	6	32	29184.32	0.01	0.03	N	O	19/7/1995	26/6/1995	26/7/1995	NONE	RAIL	sts along the slyly	lineitem
++	4229	5	8	2	34	30770	0.07	0.05	N	O	26/5/1998	13/4/1998	8/6/1998	DELIVER IN PERSON	MAIL	thely final accounts use even packa	lineitem
++	4099	137	3	2	3	3111.39	0.04	0.06	A	F	12/9/1992	18/10/1992	1/10/1992	NONE	RAIL	. special packages sleep	lineitem
++	2980	37	3	1	2	1874.06	0.09	0.03	N	O	18/11/1996	22/10/1996	27/11/1996	TAKE BACK RETURN	SHIP	enly across the special, pending packag	lineitem
++	5892	150	9	2	37	38855.55	0.09	0.06	N	O	12/8/1995	11/6/1995	5/9/1995	NONE	REG AIR	maintain. bold, expre	lineitem
++	2214	76	5	1	27	26353.89	0.04	0.04	N	O	31/5/1998	7/6/1998	19/6/1998	DELIVER IN PERSON	REG AIR	x fluffily along the even packages-- 	lineitem
++	3200	198	9	5	16	17571.04	0.05	0	N	O	28/2/1996	13/3/1996	11/3/1996	NONE	RAIL	ly against the quiet packages. blith	lineitem
++	1767	25	4	1	32	29600.64	0.08	0.04	A	F	22/5/1995	14/5/1995	23/5/1995	COLLECT COD	SHIP	to the bravely ironic requests i	lineitem
++	2342	36	7	4	1	936.03	0.04	0.06	N	O	31/8/1996	9/8/1996	7/9/1996	DELIVER IN PERSON	REG AIR	ffily. unusual pinto beans wake c	lineitem
++	4549	159	1	1	44	46602.6	0.08	0	N	O	13/3/1998	15/4/1998	27/3/1998	TAKE BACK RETURN	TRUCK	ding to the regular, silent requests	lineitem
++	3335	31	2	2	44	40965.32	0.07	0.02	N	O	5/1/1996	25/12/1995	18/1/1996	DELIVER IN PERSON	SHIP	r packages cajole ac	lineitem
++	4997	29	2	6	2	1858.04	0.07	0.01	N	O	9/7/1998	10/6/1998	21/7/1998	TAKE BACK RETURN	REG AIR	counts. slyl	lineitem
++	4036	47	O	82563.1	26/4/1997	3-MEDIUM	Clerk#000000398	0	ly express deposits nag slyly. ironic, final asymptotes boost bra	orders
++	804	76	5	3	44	42947.08	0.04	0.05	R	F	6/7/1993	13/4/1993	28/7/1993	DELIVER IN PERSON	TRUCK	ly final deposits? special 	lineitem
++	2658	147	4	6	27	28272.78	0.05	0.07	N	O	26/9/1995	8/12/1995	30/9/1995	NONE	AIR	ecial packages use abov	lineitem
++	3811	164	3	1	24	25539.84	0.04	0.02	N	O	13/7/1998	16/5/1998	12/8/1998	TAKE BACK RETURN	TRUCK	deposits. slyly regular accounts cajo	lineitem
++	2944	14	O	146581.14	24/9/1997	4-NOT SPECIFIED	Clerk#000000740	0	deas. permanently special foxes haggle carefully ab	orders
++	3941	10	3	3	2	1820.02	0.01	0.03	N	O	4/12/1996	1/10/1996	25/12/1996	NONE	REG AIR	es wake after the	lineitem
++	3428	198	9	1	4	4392.76	0	0.03	N	O	9/5/1996	13/6/1996	2/6/1996	NONE	REG AIR	sly pending requests int	lineitem
++	419	149	2	5	17	17835.38	0.01	0	N	O	13/1/1997	20/12/1996	1/2/1997	COLLECT COD	REG AIR	lar dependencies: carefully regu	lineitem
++	4230	46	5	1	38	35949.52	0.1	0.03	A	F	28/4/1992	21/4/1992	28/5/1992	TAKE BACK RETURN	FOB	ly regular packages. regular ideas boost	lineitem
++	3235	138	9	3	29	30105.77	0.06	0.06	N	O	28/1/1996	26/12/1995	12/2/1996	DELIVER IN PERSON	RAIL	e fluffy pinto bea	lineitem
++	3360	117	7	4	29	29496.19	0.1	0.01	N	O	19/5/1998	3/3/1998	9/6/1998	TAKE BACK RETURN	FOB	hely gifts. spe	lineitem
++	7	Customer#000000007	TcGe5gaZNgVePxU5kRrvXBfkasDTea	18	28-190-982-9759	9561.95	AUTOMOBILE	ainst the ironic, express theodolites. express, even pinto beans among the exp	customer
++	3748	147	4	5	21	21989.94	0.07	0.08	N	O	30/3/1998	7/4/1998	5/4/1998	TAKE BACK RETURN	MAIL	fix carefully furiously express ideas. furi	lineitem
++	5568	44	5	2	18	16992.72	0.01	0.08	N	O	19/8/1995	18/8/1995	24/8/1995	DELIVER IN PERSON	SHIP	structions haggle. carefully regular 	lineitem
++	5477	193	6	4	16	17491.04	0	0.01	N	O	7/3/1998	12/3/1998	6/4/1998	COLLECT COD	RAIL	regular, s	lineitem
++	2213	118	8	1	20	20362.2	0.01	0	A	F	21/1/1993	14/4/1993	29/1/1993	COLLECT COD	REG AIR	iously express accounts; 	lineitem
++	19	Customer#000000019	uc,3bHIx84H,wdrmLOjVsiqXCq2tr	18	28-396-526-5053	8914.71	HOUSEHOLD	 nag. furiously careful packages are slyly at the accounts. furiously regular in	customer
++	5058	119	O	17031.01	23/3/1998	1-URGENT	Clerk#000000367	0	 the pending packages wake after the quickly speci	orders
++	2212	118	F	17231.05	23/3/1994	3-MEDIUM	Clerk#000000954	0	structions above the unusual requests use fur	orders
++	1280	129	8	1	17	17495.04	0.01	0.01	A	F	4/2/1993	10/4/1993	7/2/1993	NONE	FOB	ructions integrate across the th	lineitem
++	3201	119	6	3	50	50955.5	0	0.08	R	F	27/10/1993	30/9/1993	16/11/1993	COLLECT COD	TRUCK	 deposits. express, ir	lineitem
++	32	3	8	4	4	3612	0.09	0.03	N	O	4/8/1995	1/10/1995	3/9/1995	NONE	REG AIR	e slyly final pac	lineitem
++	995	116	P	135157.92	31/5/1995	3-MEDIUM	Clerk#000000439	0	deas. blithely final deposits play. express accounts wake blithely caref	orders
++	3814	173	3	2	14	15024.38	0.01	0	R	F	17/3/1995	10/5/1995	16/4/1995	DELIVER IN PERSON	AIR	sits along the final, ironic deposit	lineitem
++	3719	118	O	139902.71	16/2/1997	2-HIGH	Clerk#000000034	0	, enticing accounts are blithely among the daringly final asymptotes. furious	orders
++	5158	119	9	5	20	20382.2	0.01	0.04	N	O	3/2/1997	20/2/1997	8/2/1997	TAKE BACK RETURN	AIR	latelets use accordin	lineitem
++	2500	80	10	3	41	40183.28	0.02	0	R	F	2/9/1992	11/11/1992	6/9/1992	DELIVER IN PERSON	RAIL	s could have to integrate after the 	lineitem
++	2053	65	2	3	46	44392.76	0.01	0.03	R	F	1/4/1995	2/4/1995	18/4/1995	NONE	RAIL	tions. furiously even requests hagg	lineitem
++	4196	87	8	6	43	42444.44	0.01	0.06	N	O	12/8/1998	12/7/1998	22/8/1998	DELIVER IN PERSON	FOB	es. slyly even 	lineitem
++	1573	194	7	4	11	12036.09	0.09	0.01	R	F	23/3/1993	24/3/1993	12/4/1993	TAKE BACK RETURN	RAIL	nently pending	lineitem
++	2340	65	O	30778.78	12/1/1996	1-URGENT	Clerk#000000964	0	ter the deposits sleep according to the slyly regular packages. carefully 	orders
++	1025	150	1	1	36	37805.4	0.03	0.04	A	F	15/5/1995	5/7/1995	10/6/1995	COLLECT COD	FOB	e unusual, regular instr	lineitem
++	1767	25	P	136582.6	14/3/1995	2-HIGH	Clerk#000000327	0	eposits use carefully carefully regular platelets. quickly regular packages al	orders
++	4038	32	3	3	24	22368.72	0.1	0.04	N	O	6/4/1996	15/2/1996	18/4/1996	TAKE BACK RETURN	RAIL	the furiously regu	lineitem
++	3584	160	8	2	23	24383.68	0	0.03	N	O	10/9/1997	15/10/1997	30/9/1997	COLLECT COD	TRUCK	l platelets until the asymptotes 	lineitem
++	5376	91	4	2	44	43607.96	0.05	0.02	R	F	30/8/1994	5/8/1994	7/9/1994	COLLECT COD	AIR	ithe packages detect final theodolites. f	lineitem
++	2053	121	6	4	31	31654.72	0.06	0.08	R	F	23/3/1995	13/3/1995	16/4/1995	DELIVER IN PERSON	SHIP	ts. fluffily final mul	lineitem
++	1606	100	4	3	23	23002.3	0	0.06	N	O	19/4/1997	26/6/1997	30/4/1997	NONE	MAIL	ously final requests. slowly ironic ex	lineitem
++	4610	26	F	135934.6	18/6/1993	5-LOW	Clerk#000000616	0	e carefully express pinto	orders
++	674	34	F	27204.6	29/8/1992	5-LOW	Clerk#000000448	0	ully special deposits. furiously final warhorses affix carefully. fluffily f	orders
++	4773	144	5	1	23	24015.22	0	0.08	N	O	1/1/1996	19/3/1996	4/1/1996	NONE	FOB	ly express grouches wak	lineitem
++	2436	164	3	3	6	6384.96	0.06	0.08	N	O	25/10/1995	30/11/1995	24/11/1995	DELIVER IN PERSON	RAIL	odolites. ep	lineitem
++	3777	8	5	2	10	9080	0.03	0.01	R	F	22/5/1994	29/5/1994	13/6/1994	COLLECT COD	RAIL	le. ironic depths a	lineitem
++	3046	2	9	3	31	27962	0.03	0.07	N	O	24/3/1996	30/1/1996	26/3/1996	NONE	RAIL	y pending somas alongside of the slyly iro	lineitem
++	1347	113	7	4	28	28367.08	0.01	0	N	O	30/7/1997	22/7/1997	18/8/1997	TAKE BACK RETURN	FOB	foxes after the blithely special i	lineitem
++	2560	46	5	3	31	29327.24	0.01	0.05	A	F	14/11/1992	14/10/1992	11/12/1992	DELIVER IN PERSON	AIR	to beans. blithely regular Tiresias int	lineitem
++	2022	62	F	206742.11	15/3/1992	1-URGENT	Clerk#000000268	0	 dependencies sleep fluffily even, ironic deposits. express, silen	orders
++	4002	99	1	5	4	3996.36	0.08	0.07	N	O	6/5/1997	15/6/1997	24/5/1997	NONE	REG AIR	ccording to the careful	lineitem
++	545	64	O	23476.12	7/11/1995	2-HIGH	Clerk#000000537	0	as. blithely final hockey players about th	orders
++	3171	139	10	2	50	51956.5	0.01	0.04	A	F	19/7/1993	15/5/1993	31/7/1993	TAKE BACK RETURN	REG AIR	riously final foxes about the ca	lineitem
++	1639	171	10	3	41	43917.97	0.04	0.02	N	O	19/12/1995	11/11/1995	12/1/1996	DELIVER IN PERSON	FOB	structions w	lineitem
++	2179	108	5	5	7	7056.7	0	0.02	N	O	24/10/1996	14/11/1996	21/11/1996	TAKE BACK RETURN	RAIL	gular dependencies. ironic packages haggle	lineitem
++	3331	91	F	65189.17	21/5/1993	2-HIGH	Clerk#000000901	0	uffily carefully sly accounts. blithely unu	orders
++	2145	154	6	2	6	6324.9	0.05	0.01	A	F	10/10/1992	29/11/1992	14/10/1992	NONE	AIR	s. fluffily express accounts sleep. slyl	lineitem
++	4932	103	10	2	15	15046.5	0.01	0.02	R	F	15/11/1993	25/10/1993	29/11/1993	NONE	REG AIR	yly. unusu	lineitem
++	5602	130	O	67979.49	30/7/1997	3-MEDIUM	Clerk#000000395	0	onic asymptotes haggl	orders
++	963	26	F	53287.25	26/5/1994	3-MEDIUM	Clerk#000000497	0	uses haggle carefully. slyly even dependencies after the packages ha	orders
++	1283	192	4	4	40	43687.6	0.07	0.03	N	O	9/11/1996	23/11/1996	28/11/1996	NONE	MAIL	riously. even, ironic instructions after	lineitem
++	4322	69	4	1	39	37793.34	0.04	0.02	N	O	27/4/1998	3/6/1998	4/5/1998	TAKE BACK RETURN	MAIL	its integrate fluffily 	lineitem
++	3106	136	2	2	49	50770.37	0.06	0.06	N	O	27/2/1997	11/3/1997	12/3/1997	NONE	TRUCK	lets. quietly regular courts 	lineitem
++	2277	8	1	2	2	1816	0.1	0.08	A	F	1/2/1995	4/2/1995	2/3/1995	TAKE BACK RETURN	AIR	endencies sleep idly pending p	lineitem
++	1925	17	F	146382.71	5/3/1992	1-URGENT	Clerk#000000986	0	e slyly regular deposits. furiously 	orders
++	5958	149	8	1	33	34621.62	0.02	0.04	N	O	24/9/1995	12/12/1995	5/10/1995	COLLECT COD	MAIL	lar, regular accounts wake furi	lineitem
++	1862	166	7	2	37	39447.92	0.06	0.02	N	O	15/4/1998	15/5/1998	14/5/1998	TAKE BACK RETURN	MAIL	l deposits. carefully even dep	lineitem
++	3104	48	1	2	47	44557.88	0.02	0.05	A	F	25/12/1993	2/11/1993	12/1/1994	COLLECT COD	RAIL	ily daring acc	lineitem
++	359	12	9	2	18	16416.18	0	0.03	A	F	27/1/1995	18/3/1995	31/1/1995	DELIVER IN PERSON	RAIL	unusual warthogs. ironically sp	lineitem
++	486	47	4	6	46	43563.84	0	0.03	N	O	18/4/1996	2/5/1996	20/4/1996	COLLECT COD	AIR	theodolites eat carefully furious	lineitem
++	5505	25	8	1	43	39775.86	0.07	0.01	N	O	30/12/1997	28/11/1997	9/1/1998	TAKE BACK RETURN	TRUCK	y alongside of the special requests.	lineitem
++	2117	58	3	3	43	41196.15	0.04	0.03	N	O	27/6/1997	12/6/1997	22/7/1997	DELIVER IN PERSON	SHIP	 foxes sleep furiously 	lineitem
++	5089	34	10	4	38	35493.14	0.05	0.03	R	F	23/11/1992	11/9/1992	22/12/1992	TAKE BACK RETURN	SHIP	regular instructions are	lineitem
++	2116	131	2	1	2	2062.26	0	0.02	R	F	16/10/1994	24/11/1994	9/11/1994	DELIVER IN PERSON	TRUCK	r theodolites use blithely about the ir	lineitem
++	1412	158	6	5	11	11639.65	0.08	0.06	A	F	30/3/1993	25/5/1993	21/4/1993	NONE	FOB	se slyly. special, unusual accounts nag bl	lineitem
++	1125	98	1	4	29	28944.61	0.06	0	A	F	29/11/1994	20/12/1994	10/12/1994	DELIVER IN PERSON	RAIL	 platelets wake against the carefully i	lineitem
++	5445	131	2	2	12	12373.56	0.09	0.08	R	F	2/11/1993	5/9/1993	26/11/1993	COLLECT COD	FOB	 slyly pending pinto beans was slyly al	lineitem
++	1954	177	8	6	13	14003.21	0	0.07	N	O	15/6/1997	22/8/1997	20/6/1997	TAKE BACK RETURN	MAIL	y ironic instructions cajole	lineitem
++	800	72	1	1	38	36938.66	0	0.05	N	O	21/7/1998	25/9/1998	7/8/1998	TAKE BACK RETURN	TRUCK	according to the bold, final dependencies 	lineitem
++	5095	106	3	2	2	2012.2	0.07	0.08	A	F	9/7/1992	25/5/1992	21/7/1992	DELIVER IN PERSON	REG AIR	detect car	lineitem
++	2177	139	5	2	27	28056.51	0.04	0.08	N	O	29/1/1997	20/3/1997	4/2/1997	DELIVER IN PERSON	SHIP	even, regula	lineitem
++	4546	133	4	1	10	10331.3	0.09	0.02	N	O	23/9/1995	10/10/1995	23/10/1995	COLLECT COD	TRUCK	osits alongside of the	lineitem
++	7	80	10	6	35	34302.8	0.06	0.03	N	O	16/1/1996	23/2/1996	22/1/1996	TAKE BACK RETURN	FOB	jole. excuses wake carefully alongside of 	lineitem
++	5633	79	O	207119.83	31/5/1998	3-MEDIUM	Clerk#000000841	0	cial deposits wake final, final	orders
++	4645	42	9	6	27	25435.08	0.09	0.08	R	F	26/11/1994	25/10/1994	4/12/1994	NONE	SHIP	ously express pinto beans. ironic depos	lineitem
++	2113	123	8	1	40	40924.8	0.04	0.06	N	O	16/1/1998	11/12/1997	6/2/1998	TAKE BACK RETURN	TRUCK	bout the quickly ironic t	lineitem
++	4548	45	4	5	36	34021.44	0.04	0.06	N	O	19/8/1996	12/9/1996	8/9/1996	COLLECT COD	FOB	tions integrat	lineitem
++	2753	48	7	2	40	37921.6	0.03	0.05	A	F	6/1/1994	13/2/1994	3/2/1994	DELIVER IN PERSON	SHIP	latelets kindle slyly final depos	lineitem
++	3687	119	9	5	31	31592.41	0.07	0.08	A	F	28/5/1993	20/3/1993	5/6/1993	DELIVER IN PERSON	FOB	foxes cajole quickly about the furiously f	lineitem
++	4866	11	8	1	9	8199.09	0.01	0.05	N	O	30/8/1997	18/9/1997	24/9/1997	TAKE BACK RETURN	MAIL	ven dependencies x-ray. quic	lineitem
++	4481	190	1	2	27	29435.13	0.02	0.03	N	O	6/4/1996	17/5/1996	12/4/1996	TAKE BACK RETURN	AIR	ackages haggle even, 	lineitem
++	1127	110	5	2	38	38384.18	0.09	0.05	N	O	7/11/1995	11/11/1995	26/11/1995	DELIVER IN PERSON	RAIL	. never final packages boost acro	lineitem
++	1028	128	3	1	2	2056.24	0.09	0.03	A	F	10/1/1994	22/3/1994	26/1/1994	COLLECT COD	FOB	s alongside of the regular asymptotes sleep	lineitem
++	2950	66	7	2	18	17389.08	0.1	0.01	N	O	19/7/1997	29/8/1997	17/8/1997	COLLECT COD	TRUCK	uests cajole furio	lineitem
++	3430	97	8	3	41	40880.69	0.06	0.04	R	F	18/2/1995	21/2/1995	11/3/1995	TAKE BACK RETURN	AIR	cuses. silent excuses h	lineitem
++	5895	64	O	201419.83	1/1/1997	4-NOT SPECIFIED	Clerk#000000747	0	 ironic, unusual requests cajole blithely special, special deposits. s	orders
++	5381	44	3	7	31	29265.24	0.04	0.05	A	F	10/4/1993	22/3/1993	13/4/1993	TAKE BACK RETURN	MAIL	the carefully expre	lineitem
++	1797	12	9	3	21	19152.21	0.02	0.01	N	O	5/8/1996	5/8/1996	6/8/1996	DELIVER IN PERSON	AIR	ns. regular, regular deposit	lineitem
++	2435	39	10	1	8	7512.24	0.08	0.03	A	F	8/6/1993	4/4/1993	29/6/1993	COLLECT COD	SHIP	e fluffily quickly final accounts. care	lineitem
++	96	109	F	55090.67	17/4/1994	2-HIGH	Clerk#000000395	0	oost furiously. pinto	orders
++	1506	50	3	6	38	36101.9	0.05	0.02	R	F	2/12/1992	19/12/1992	29/12/1992	NONE	REG AIR	xpress, regular excuse	lineitem
++	292	23	F	30783.05	13/1/1992	2-HIGH	Clerk#000000193	0	g pinto beans will have to sleep f	orders
++	4193	117	7	2	3	3051.33	0.09	0.05	R	F	29/4/1994	20/3/1994	29/5/1994	TAKE BACK RETURN	REG AIR	osits above the depo	lineitem
++	2784	29	10	4	3	2787.06	0.04	0.03	N	O	19/1/1998	5/4/1998	5/2/1998	TAKE BACK RETURN	AIR	n packages. foxes haggle quickly sile	lineitem
++	4743	159	4	2	3	3177.45	0.01	0.03	R	F	14/4/1993	8/6/1993	9/5/1993	NONE	TRUCK	al requests. express idea	lineitem
++	4068	110	1	1	43	43434.73	0.05	0.06	N	O	28/11/1996	16/11/1996	22/12/1996	NONE	AIR	ructions. regular, special packag	lineitem
++	1666	64	1	2	20	19281.2	0.01	0	N	O	27/1/1996	12/12/1995	31/1/1996	NONE	REG AIR	uietly regular foxes wake quick	lineitem
++	45	Customer#000000045	4v3OcpFgoOmMG,CbnF,4mdC	9	19-715-298-9917	9983.38	AUTOMOBILE	nto beans haggle slyly alongside of t	customer
++	2981	14	4	1	17	15538.17	0.03	0.05	N	O	17/10/1998	2/10/1998	21/10/1998	DELIVER IN PERSON	RAIL	, unusual packages x-ray. furious	lineitem
++	38	176	5	1	44	47351.48	0.04	0.02	N	O	29/9/1996	17/11/1996	30/9/1996	COLLECT COD	MAIL	s. blithely unusual theodolites am	lineitem
++	166	109	O	93335.6	12/9/1995	2-HIGH	Clerk#000000440	0	lets. ironic, bold asymptotes kindle	orders
++	1574	134	O	179923.54	12/12/1996	3-MEDIUM	Clerk#000000809	0	 ideas hinder after the carefully unusual 	orders
++	801	74	2	5	45	43833.15	0.01	0.06	R	F	22/3/1992	22/3/1992	25/3/1992	COLLECT COD	REG AIR	 even asymptotes	lineitem
++	1825	178	9	5	33	35579.61	0.04	0.04	A	F	7/12/1993	1/3/1994	16/12/1993	TAKE BACK RETURN	RAIL	about the ne	lineitem
++	1799	52	10	1	8	7616.4	0.04	0.08	R	F	14/6/1994	27/5/1994	27/6/1994	TAKE BACK RETURN	MAIL	ealms upon the special, ironic waters	lineitem
++	641	4	9	5	41	37064	0.07	0.04	R	F	29/11/1993	27/10/1993	4/12/1993	TAKE BACK RETURN	FOB	 asymptotes are quickly. bol	lineitem
++	3969	151	9	4	21	22074.15	0.07	0.04	N	O	31/8/1997	16/7/1997	2/9/1997	TAKE BACK RETURN	MAIL	unts doze quickly final reque	lineitem
++	1767	174	5	3	24	25780.08	0.06	0.03	R	F	16/3/1995	29/4/1995	11/4/1995	DELIVER IN PERSON	RAIL	luffy theodolites need to detect furi	lineitem
++	5700	126	5	3	23	23600.76	0.03	0.05	N	O	30/1/1998	31/1/1998	31/1/1998	NONE	REG AIR	 wake quickly carefully fluffy hockey	lineitem
++	742	192	6	6	49	53517.31	0.02	0.07	A	F	13/1/1995	13/2/1995	26/1/1995	TAKE BACK RETURN	RAIL	 carefully bold foxes sle	lineitem
++	865	198	10	1	16	17571.04	0.07	0.03	R	F	24/8/1993	26/6/1993	28/8/1993	TAKE BACK RETURN	TRUCK	y even accounts. quickly bold decoys	lineitem
++	871	174	3	7	4	4296.68	0	0.07	N	O	9/3/1996	20/1/1996	26/3/1996	COLLECT COD	FOB	l, regular dependencies w	lineitem
++	868	29	8	2	13	12077.26	0.05	0.07	R	F	25/7/1992	26/8/1992	4/8/1992	NONE	AIR	gged instructi	lineitem
++	4580	32	3	2	10	9320.3	0.05	0.04	R	F	20/12/1993	30/12/1993	17/1/1994	COLLECT COD	RAIL	gular, pending deposits. fina	lineitem
++	1312	173	1	3	18	19317.06	0.03	0.07	A	F	13/9/1994	8/7/1994	22/9/1994	TAKE BACK RETURN	MAIL	. slyly ironic	lineitem
++	33	61	8	2	32	30753.92	0.02	0.05	A	F	9/12/1993	4/1/1994	28/12/1993	COLLECT COD	MAIL	gular theodolites	lineitem
++	3685	58	6	2	7	6706.35	0.05	0	R	F	16/5/1992	23/2/1992	17/5/1992	DELIVER IN PERSON	FOB	sits. special asymptotes about the r	lineitem
++	3300	149	10	2	23	24130.22	0.02	0.02	N	O	17/8/1995	3/9/1995	4/9/1995	COLLECT COD	TRUCK	he fluffily final a	lineitem
++	3841	50	1	4	9	8550.45	0.1	0.07	A	F	21/11/1994	26/12/1994	26/11/1994	NONE	FOB	s according to the courts shall nag s	lineitem
++	1697	75	5	1	6	5850.42	0.05	0	N	O	28/1/1997	27/11/1996	31/1/1997	NONE	FOB	accounts breach slyly even de	lineitem
++	2146	25	6	7	39	36075.78	0.07	0.06	R	F	5/1/1993	6/11/1992	14/1/1993	DELIVER IN PERSON	TRUCK	uickly regular excuses detect. regular c	lineitem
++	3040	52	3	5	43	40938.15	0.04	0.04	R	F	21/5/1993	25/5/1993	26/5/1993	NONE	MAIL	sts nag slyly alongside of the depos	lineitem
++	1060	8	5	2	26	23608	0.06	0.08	R	F	12/4/1993	1/4/1993	20/4/1993	DELIVER IN PERSON	TRUCK	counts; even deposits are carefull	lineitem
++	3367	73	F	101339.68	31/12/1992	4-NOT SPECIFIED	Clerk#000000029	0	efully blithely ironic pinto beans. carefully close 	orders
++	1411	17	7	1	9	8253.09	0.06	0.04	A	F	8/3/1995	4/3/1995	11/3/1995	DELIVER IN PERSON	AIR	accounts. furiou	lineitem
++	1319	61	8	1	21	20182.26	0.03	0.04	N	O	5/10/1996	2/12/1996	28/10/1996	COLLECT COD	FOB	s: carefully express 	lineitem
++	3	20	10	2	49	45080.98	0.1	0	R	F	9/11/1993	20/12/1993	24/11/1993	TAKE BACK RETURN	RAIL	 unusual accounts. eve	lineitem
++	994	2	F	41433.48	20/4/1994	5-LOW	Clerk#000000497	0	ole. slyly bold excuses nag caref	orders
++	1058	89	10	2	5	4945.4	0.04	0.07	R	F	11/5/1993	29/5/1993	27/5/1993	COLLECT COD	TRUCK	refully even requests boost along	lineitem
++	4901	79	O	146298.28	31/12/1997	4-NOT SPECIFIED	Clerk#000000980	0	inal dependencies cajole furiously. carefully express accounts na	orders
++	3425	79	9	5	48	46995.36	0.08	0.04	N	O	14/4/1996	25/5/1996	23/4/1996	TAKE BACK RETURN	AIR	uctions wake fluffily. care	lineitem
++	146	Customer#000000146	GdxkdXG9u7iyI1,,y5tq4ZyrcEy	3	13-835-723-3223	3328.68	FURNITURE	ffily regular dinos are slyly unusual requests. slyly specia	customer
++	3846	61	10	1	15	14415.9	0.06	0.03	N	O	17/2/1998	27/4/1998	21/2/1998	NONE	REG AIR	uternes. carefully even	lineitem
++	132	120	1	2	43	43865.16	0.01	0.08	R	F	1/9/1993	16/8/1993	22/9/1993	NONE	TRUCK	y pending theodolites	lineitem
++	709	37	O	72055.87	21/4/1998	1-URGENT	Clerk#000000461	0	ons alongside of the carefully bold pinto bea	orders
++	2182	23	F	116003.11	5/4/1994	2-HIGH	Clerk#000000071	0	ccounts. quickly bold deposits across the excuses sl	orders
++	4965	52	F	110626.82	21/10/1993	5-LOW	Clerk#000000638	0	dependencies poach packages. sometim	orders
++	867	26	F	7471.75	16/11/1993	3-MEDIUM	Clerk#000000877	0	pades nag quickly final, 	orders
++	90	Customer#000000090	QxCzH7VxxYUWwfL7	16	26-603-491-1238	7354.23	BUILDING	sly across the furiously even 	customer
++	3717	69	6	4	5	4845.3	0.06	0.03	N	O	2/9/1998	20/8/1998	26/9/1998	TAKE BACK RETURN	AIR	quickly among 	lineitem
++	646	30	9	3	24	22320.72	0.06	0.02	A	F	20/2/1995	30/12/1994	16/3/1995	TAKE BACK RETURN	TRUCK	regular accounts haggle dog	lineitem
++	612	185	6	1	5	5425.9	0.07	0	R	F	8/11/1992	20/11/1992	3/12/1992	TAKE BACK RETURN	RAIL	structions. q	lineitem
++	1671	197	9	6	46	50470.74	0.08	0.05	N	O	13/9/1996	14/10/1996	28/9/1996	TAKE BACK RETURN	REG AIR	. slyly bold instructions boost. furiousl	lineitem
++	1543	68	7	7	3	2904.18	0	0.02	N	O	22/3/1997	6/4/1997	30/3/1997	NONE	AIR	quickly. final accounts haggle slyl	lineitem
++	513	122	5	2	44	44973.28	0.01	0.01	N	O	14/7/1995	14/7/1995	12/8/1995	NONE	MAIL	kages sleep boldly ironic theodolites. acco	lineitem
++	2086	84	5	4	27	26570.16	0.02	0	A	F	4/11/1994	14/1/1995	25/11/1994	COLLECT COD	REG AIR	theodolites haggle blithely blithe p	lineitem
++	4391	161	10	1	1	1061.16	0.09	0	R	F	18/6/1992	27/4/1992	20/6/1992	COLLECT COD	TRUCK	ong the silent deposits	lineitem
++	5765	174	3	5	48	51560.16	0.09	0.02	A	F	30/3/1995	14/1/1995	9/4/1995	DELIVER IN PERSON	SHIP	theodolites integrate furiously	lineitem
++	5157	59	7	4	25	23976.25	0	0.03	N	O	24/8/1997	23/9/1997	28/8/1997	COLLECT COD	REG AIR	 packages detect. even requests against th	lineitem
++	3685	47	4	1	37	35040.48	0.02	0.03	R	F	11/3/1992	9/4/1992	5/4/1992	DELIVER IN PERSON	TRUCK	ress attai	lineitem
++	1698	53	4	5	37	35262.85	0	0.03	N	O	16/5/1997	29/5/1997	27/5/1997	NONE	AIR	ly regular ideas. deposit	lineitem
++	3717	53	5	2	3	2859.15	0.01	0.07	N	O	9/6/1998	31/7/1998	14/6/1998	NONE	REG AIR	nside the regular packages sleep	lineitem
++	709	169	8	3	10	10691.6	0.01	0.02	N	O	4/6/1998	30/6/1998	11/6/1998	NONE	REG AIR	ts cajole boldly 	lineitem
++	288	8	O	163794.53	21/2/1997	1-URGENT	Clerk#000000109	0	uriously final requests. even, final ideas det	orders
++	355	71	F	69447.25	14/6/1994	5-LOW	Clerk#000000532	0	s. sometimes regular requests cajole. regular, pending accounts a	orders
++	1827	200	1	3	37	40707.4	0.01	0.07	N	O	20/7/1996	18/8/1996	8/8/1996	DELIVER IN PERSON	REG AIR	ously ironic theodolites serve quickly af	lineitem
++	3620	44	O	59291.75	7/3/1997	5-LOW	Clerk#000000124	0	le quickly against the epitaphs. requests sleep slyly according to the	orders
++	1893	148	9	2	49	51358.86	0.03	0.05	N	O	19/1/1998	28/1/1998	2/2/1998	TAKE BACK RETURN	FOB	y final foxes bo	lineitem
++	2113	112	2	2	24	24290.64	0.03	0.02	N	O	19/2/1998	8/1/1998	16/3/1998	COLLECT COD	MAIL	kly regular accounts hinder about the	lineitem
++	1700	156	7	2	49	51751.35	0.04	0	N	O	26/9/1996	28/7/1996	16/10/1996	NONE	TRUCK	kly even dependencies haggle fluffi	lineitem
++	5637	196	7	5	10	10961.9	0.01	0	N	O	25/8/1996	11/8/1996	23/9/1996	TAKE BACK RETURN	MAIL	ickly ironic gifts. blithely even cour	lineitem
++	3590	96	9	3	43	42831.87	0.07	0.06	N	O	12/7/1995	25/7/1995	16/7/1995	DELIVER IN PERSON	SHIP	s could have to use	lineitem
++	1254	193	5	1	6	6559.14	0.08	0.01	N	O	2/2/1996	21/3/1996	29/2/1996	NONE	REG AIR	lithely even deposits eat!	lineitem
++	2051	130	1	2	48	49446.24	0.01	0.02	N	O	4/5/1996	14/6/1996	19/5/1996	NONE	TRUCK	unts. pending platelets believe about	lineitem
++	5766	49	F	47940.51	27/9/1993	5-LOW	Clerk#000000753	0	. quickly final packages print slyly. fu	orders
++	2305	155	7	5	26	27433.9	0.06	0.07	A	F	14/5/1993	28/2/1993	4/6/1993	NONE	SHIP	arefully final theodo	lineitem
++	2917	93	4	1	36	35751.24	0.1	0.01	N	O	7/4/1998	23/2/1998	1/5/1998	DELIVER IN PERSON	RAIL	usly ironic d	lineitem
++	3712	148	7	4	38	39829.32	0.01	0.06	A	F	15/1/1992	24/3/1992	27/1/1992	COLLECT COD	RAIL	s nag carefully-- even, reg	lineitem
++	1506	169	6	7	4	4276.64	0.07	0	R	F	3/1/1993	6/12/1992	5/1/1993	COLLECT COD	REG AIR	posits. furiou	lineitem
++	1472	149	O	65331.05	6/10/1996	5-LOW	Clerk#000000303	0	y special dolphins around the final dependencies wake quick	orders
++	5703	88	9	1	2	1976.16	0.09	0.01	R	F	29/5/1993	26/7/1993	5/6/1993	TAKE BACK RETURN	REG AIR	nts against the blithely sile	lineitem
++	1762	8	9	5	49	44492	0.08	0.05	A	F	20/10/1994	2/11/1994	10/11/1994	TAKE BACK RETURN	SHIP	 packages sleep fluffily pen	lineitem
++	3174	194	7	2	4	4376.76	0.01	0.05	N	O	17/11/1995	8/1/1996	27/11/1995	DELIVER IN PERSON	RAIL	deas sleep thi	lineitem
++	5767	69	8	2	15	14535.9	0.07	0.05	R	F	5/6/1992	28/7/1992	8/6/1992	DELIVER IN PERSON	MAIL	warthogs. carefully unusual g	lineitem
++	5285	193	5	1	31	33888.89	0.08	0	A	F	17/4/1994	5/4/1994	9/5/1994	NONE	RAIL	ubt. quickly blithe 	lineitem
++	4583	196	10	3	28	30693.32	0	0.07	A	F	29/10/1994	21/11/1994	28/11/1994	NONE	SHIP	to beans haggle sly	lineitem
++	5314	118	9	1	10	10181.1	0.07	0.05	N	O	26/9/1995	24/7/1995	19/10/1995	DELIVER IN PERSON	RAIL	latelets haggle final	lineitem
++	4992	163	8	6	44	46779.04	0.05	0.02	A	F	1/6/1992	22/7/1992	3/6/1992	NONE	RAIL	rmanent, sly packages print slyly. regula	lineitem
++	2370	6	3	4	21	19026	0.04	0.01	R	F	1/2/1994	19/2/1994	9/2/1994	TAKE BACK RETURN	MAIL	ecial dependencies must have to 	lineitem
++	290	118	F	62814.89	1/1/1994	4-NOT SPECIFIED	Clerk#000000735	0	efully dogged deposits. furiou	orders
++	451	33	4	2	42	39187.26	0.05	0.01	N	O	1/8/1998	5/8/1998	30/8/1998	DELIVER IN PERSON	TRUCK	express excuses. blithely ironic pin	lineitem
++	1698	93	5	2	6	5958.54	0.08	0	N	O	21/8/1997	8/6/1997	3/9/1997	DELIVER IN PERSON	RAIL	 pending packages affix ne	lineitem
++	2756	72	2	4	30	29162.1	0	0.04	A	F	5/6/1994	30/6/1994	14/6/1994	DELIVER IN PERSON	TRUCK	ular packages. regular deposi	lineitem
++	5540	64	3	3	19	18317.14	0.01	0.03	N	O	6/2/1997	18/11/1996	20/2/1997	DELIVER IN PERSON	SHIP	 slyly slyl	lineitem
++	870	186	7	2	5	5430.9	0.06	0.05	A	F	13/8/1993	11/9/1993	24/8/1993	COLLECT COD	FOB	e slyly excuses. ironi	lineitem
++	1831	71	F	58032.77	2/12/1993	1-URGENT	Clerk#000000854	0	 accounts. carefully even accounts boost furiously. regular ideas engage. 	orders
++	4548	127	O	139915.23	28/6/1996	5-LOW	Clerk#000000798	0	 in place of the blithely express sentiments haggle slyly r	orders
++	1824	49	F	81351.53	5/5/1994	1-URGENT	Clerk#000000972	0	e blithely fluffily	orders
++	4806	72	10	2	6	5832.42	0.01	0.06	A	F	17/5/1993	19/7/1993	29/5/1993	TAKE BACK RETURN	SHIP	even theodolites. packages sl	lineitem
++	85	Customer#000000085	siRerlDwiolhYR 8FgksoezycLj	5	15-745-585-8219	3386.64	FURNITURE	ronic ideas use above the slowly pendin	customer
++	1666	134	10	3	31	32058.03	0.05	0.07	N	O	11/2/1996	11/1/1996	28/2/1996	COLLECT COD	RAIL	ding to the express, bold accounts. fu	lineitem
++	4865	162	7	1	16	16994.56	0.07	0.05	N	O	2/10/1997	20/8/1997	4/10/1997	COLLECT COD	TRUCK	osits haggle. fur	lineitem
++	644	80	8	4	7	6860.56	0.01	0.02	A	F	18/5/1992	1/7/1992	7/6/1992	COLLECT COD	RAIL	 regular requests are blithely. slyly	lineitem
++	114	Customer#000000114	xAt 5f5AlFIU	14	24-805-212-7646	1027.46	FURNITURE	der the carefully express theodolites are after the packages. packages are. bli	customer
++	4355	31	7	5	50	46551.5	0.1	0	N	O	25/11/1996	1/1/1997	6/12/1996	DELIVER IN PERSON	REG AIR	 regular accounts boost along the 	lineitem
++	129	Customer#000000129	q7m7rbMM0BpaCdmxloCgBDRCleXsXkdD8kf	7	17-415-148-7416	9127.27	HOUSEHOLD	 unusual deposits boost carefully furiously silent ideas. pending accounts cajole slyly across	customer
++	112	Customer#000000112	RcfgG3bO7QeCnfjqJT1	19	29-233-262-8382	2953.35	FURNITURE	rmanently unusual multipliers. blithely ruthless deposits are furiously along the	customer
++	1541	64	3	1	44	42418.64	0.1	0.05	N	O	24/8/1995	13/7/1995	26/8/1995	TAKE BACK RETURN	MAIL	o beans boost fluffily abou	lineitem
++	4512	145	8	3	21	21947.94	0	0	N	O	31/10/1995	30/12/1995	15/11/1995	NONE	REG AIR	lly unusual pinto b	lineitem
++	5344	79	9	2	37	36225.59	0.03	0.07	N	O	9/10/1998	26/7/1998	8/11/1998	NONE	TRUCK	thely express packages	lineitem
++	2786	156	1	3	41	43302.15	0.04	0.05	R	F	1/7/1992	4/6/1992	13/7/1992	COLLECT COD	RAIL	ix requests. bold requests a	lineitem
++	2501	58	10	4	26	24909.3	0.09	0.01	N	O	15/7/1997	15/8/1997	28/7/1997	DELIVER IN PERSON	SHIP	c accounts. express, iron	lineitem
++	645	5	8	5	43	38915	0.06	0.02	A	F	12/2/1995	27/2/1995	6/3/1995	TAKE BACK RETURN	REG AIR	 furiously accounts. slyly	lineitem
++	71	66	1	2	3	2898.18	0.09	0.07	N	O	23/5/1998	3/4/1998	2/6/1998	COLLECT COD	SHIP	y. pinto beans haggle after the	lineitem
++	51	Customer#000000051	uR,wEaiTvo4	12	22-344-885-4251	855.87	FURNITURE	eposits. furiously regular requests integrate carefully packages. furious	customer
++	2691	48	7	2	2	1896.08	0	0.07	R	F	10/5/1992	4/6/1992	11/5/1992	TAKE BACK RETURN	TRUCK	s cajole at the blithely ironic warthog	lineitem
++	3553	22	5	3	18	16596.36	0.04	0.03	A	F	3/7/1994	30/6/1994	7/7/1994	COLLECT COD	RAIL	. quickly ironic	lineitem
++	3908	92	4	1	50	49604.5	0.05	0.04	R	F	19/6/1993	27/4/1993	5/7/1993	DELIVER IN PERSON	MAIL	 even accounts wake 	lineitem
++	5895	15	9	1	38	34770.38	0.05	0.08	N	O	5/4/1997	6/3/1997	3/5/1997	DELIVER IN PERSON	RAIL	ts are furiously. regular, final excuses 	lineitem
++	3968	25	O	121704.45	17/2/1997	4-NOT SPECIFIED	Clerk#000000431	0	 the slyly special accounts; 	orders
+Bye
+-	112	Customer#000000112	RcfgG3bO7QeCnfjqJT1	19	29-233-262-8382	2953.35	FURNITURE	rmanently unusual multipliers. blithely ruthless deposits are furiously along the	customer

@@ -1,0 +1,153 @@
++	867	26	F	7471.75	16/11/1993	3-MEDIUM	Clerk#000000877	0	pades nag quickly final, 	orders
++	3271	34	F	86534.05	1/1/1992	1-URGENT	Clerk#000000421	0	s. furiously regular requests	orders
++	2916	8	O	20182.22	27/12/1995	2-HIGH	Clerk#000000681	0	ithely blithe deposits sleep beyond the	orders
++	128	Customer#000000128	AmKUMlJf2NRHcKGmKjLS	4	14-280-874-8044	-986.96	HOUSEHOLD	ing packages integrate across the slyly unusual dugouts. blithely silent ideas sublate carefully. blithely expr	customer
++	3139	17	F	40975.96	2/1/1992	3-MEDIUM	Clerk#000000855	0	ounts against the ruthlessly unusual dolphins	orders
++	3844	79	F	6793.45	29/12/1994	1-URGENT	Clerk#000000686	0	r dolphins. slyly ironic theodolites ag	orders
++	1383	121	F	34797.72	27/4/1993	2-HIGH	Clerk#000000785	0	ts. express requests sleep blithel	orders
++	3651	100	O	113191.45	27/4/1998	1-URGENT	Clerk#000000222	0	ly unusual deposits thrash quickly after the ideas.	orders
++	3780	41	O	65385.42	13/4/1996	5-LOW	Clerk#000000967	0	 around the brave, pendin	orders
++	1282	116	F	61297.42	29/2/1992	4-NOT SPECIFIED	Clerk#000000168	0	he quickly special packages. furiously final re	orders
++	1152	49	F	51775.54	14/8/1994	4-NOT SPECIFIED	Clerk#000000496	0	equests. deposits ab	orders
++	38	125	O	46366.56	21/8/1996	4-NOT SPECIFIED	Clerk#000000604	0	haggle blithely. furiously express ideas haggle blithely furiously regular re	orders
++	2947	70	P	43360.95	26/4/1995	1-URGENT	Clerk#000000464	0	ronic accounts. accounts run furiously d	orders
++	3524	94	F	22767.49	3/5/1992	2-HIGH	Clerk#000000607	0	efully unusual tithes among the foxes use blithely daringly bold deposits. re	orders
++	3648	125	F	180417.11	17/6/1993	5-LOW	Clerk#000000717	0	foxes. unusual deposits boost quickly. slyly regular asymptotes across t	orders
++	5345	31	O	111924.56	24/8/1997	1-URGENT	Clerk#000000057	0	r the slyly silent packages. pending, even pinto b	orders
++	5282	50	O	94446.69	30/1/1998	1-URGENT	Clerk#000000030	0	rding to the unusual, bold accounts. regular instructions	orders
++	2176	104	F	87248.17	10/11/1992	1-URGENT	Clerk#000000195	0	s haggle regularly accor	orders
++	515	142	F	153720.22	29/8/1993	4-NOT SPECIFIED	Clerk#000000700	0	eposits are furiously furiously silent pinto beans. pending pack	orders
++	197	34	P	100290.07	7/4/1995	2-HIGH	Clerk#000000969	0	solve quickly about the even braids. carefully express deposits affix care	orders
++	4928	4	F	59931.42	4/10/1993	4-NOT SPECIFIED	Clerk#000000952	0	slyly brave instructions after the ironic excuses haggle ruthlessly about	orders
++	4161	118	F	198995.21	21/8/1993	5-LOW	Clerk#000000047	0	nts. fluffily regular foxes above the quickly daring reques	orders
++	4481	148	O	77705.4	30/3/1996	5-LOW	Clerk#000000443	0	press sheaves cajole furio	orders
++	2881	100	F	45695.84	10/5/1992	5-LOW	Clerk#000000864	0	uriously. slyly express requests according to the silent dol	orders
++	3843	10	O	34035.17	4/1/1997	4-NOT SPECIFIED	Clerk#000000693	0	eodolites; slyly unusual accounts nag boldly 	orders
++	1184	89	O	39700.29	26/10/1997	5-LOW	Clerk#000000777	0	iously even packages haggle fluffily care	orders
++	5568	31	O	105421.09	7/6/1995	3-MEDIUM	Clerk#000000491	0	 nag. fluffily pending de	orders
++	2434	25	O	123956.25	27/4/1997	3-MEDIUM	Clerk#000000190	0	s. quickly ironic dolphins impress final deposits. blithel	orders
++	4167	28	O	62108.45	17/6/1998	1-URGENT	Clerk#000000917	0	kly furiously even deposits. unu	orders
++	4422	70	P	107140.22	22/5/1995	3-MEDIUM	Clerk#000000938	0	ly bold accounts sleep special, regular foxes. doggedly regular in	orders
++	355	71	F	69447.25	14/6/1994	5-LOW	Clerk#000000532	0	s. sometimes regular requests cajole. regular, pending accounts a	orders
++	2051	40	O	87988.34	18/3/1996	4-NOT SPECIFIED	Clerk#000000333	0	ctions sleep blithely. blithely regu	orders
++	5893	2	F	44777.63	8/7/1992	4-NOT SPECIFIED	Clerk#000000560	0	final sentiments. instructions boost above the never speci	orders
++	5923	101	O	157968.27	27/5/1997	2-HIGH	Clerk#000000304	0	o beans haggle slyly above the regular, even dependencies	orders
++	4102	22	O	128786.57	17/3/1996	1-URGENT	Clerk#000000675	0	nding dependencies was slyly about the bl	orders
++	4613	133	O	212339.55	5/3/1998	3-MEDIUM	Clerk#000000541	0	furiously blithely pending dependen	orders
++	4101	142	F	21640.1	22/11/1993	4-NOT SPECIFIED	Clerk#000000704	0	y around the express, careful epitaphs. accounts use fluffily. quickly p	orders
++	5665	100	F	129821.09	28/6/1993	4-NOT SPECIFIED	Clerk#000000513	0	 carefully special instructions. ironic pinto beans nag slyly blithe	orders
++	3492	103	F	168721.45	24/11/1994	5-LOW	Clerk#000000066	0	packages along the regular foxes lose final dependencie	orders
++	120	Customer#000000120	zBNna00AEInqyO1	12	22-291-534-1571	363.75	MACHINERY	 quickly. slyly ironic requests cajole blithely furiously final dependen	customer
++	4801	88	O	108353.08	25/1/1996	1-URGENT	Clerk#000000553	0	r the final sentiments. pending theodolites sleep doggedly across t	orders
++	2849	46	O	180054.29	30/4/1996	2-HIGH	Clerk#000000659	0	al packages are after the quickly bold requests. carefully special 	orders
++	1287	19	F	131432.42	5/7/1994	2-HIGH	Clerk#000000288	0	ly ironic dolphins integrate furiously among the final packages. st	orders
++	2244	127	F	21207.08	9/1/1993	1-URGENT	Clerk#000001000	0	ckages. ironic, ironic accounts haggle blithely express excuses. 	orders
++	1859	61	O	105094.09	11/4/1997	4-NOT SPECIFIED	Clerk#000000949	0	 the foxes. bravely special excuses nag carefully special r	orders
++	385	34	O	50724.06	22/3/1996	5-LOW	Clerk#000000600	0	hless accounts unwind bold pain	orders
++	4322	142	O	149671.92	13/3/1998	3-MEDIUM	Clerk#000000433	0	totes nag across the fluffily special instructions. quickly silent hockey 	orders
++	3367	73	F	101339.68	31/12/1992	4-NOT SPECIFIED	Clerk#000000029	0	efully blithely ironic pinto beans. carefully close 	orders
++	3815	104	O	14275.01	26/8/1997	1-URGENT	Clerk#000000249	0	es snooze carefully stealth	orders
++	5443	131	O	124950.79	10/10/1996	4-NOT SPECIFIED	Clerk#000000492	0	al foxes could detect. blithely stealthy asymptotes kind	orders
++	1761	106	F	211925.95	24/12/1993	2-HIGH	Clerk#000000817	0	efully slyly bold frets. packages boost b	orders
++	5254	112	F	196989.09	26/7/1992	4-NOT SPECIFIED	Clerk#000000527	0	he express, even ideas cajole blithely special requests	orders
++	4966	70	O	59186.02	7/9/1996	2-HIGH	Clerk#000000243	0	accounts. blithely ironic courts wake boldly furiously express 	orders
++	710	133	F	208974.42	2/1/1993	5-LOW	Clerk#000000026	0	 regular, regular requests boost. fluffily re	orders
++	14	Customer#000000014	KXkletMlL2JQEA 	1	11-845-129-3851	5266.3	FURNITURE	, ironic packages across the unus	customer
++	1058	53	F	89359.11	26/4/1993	3-MEDIUM	Clerk#000000373	0	kly pending courts haggle. blithely regular sheaves integrate carefully fi	orders
++	2183	113	O	49841.12	22/6/1996	1-URGENT	Clerk#000000287	0	 among the express, ironic packages. slyly ironic platelets integrat	orders
++	5028	13	F	30755.69	17/4/1992	2-HIGH	Clerk#000000180	0	ickly blithely express deposits. b	orders
++	1632	67	O	183286.33	8/1/1997	3-MEDIUM	Clerk#000000351	0	onic requests are accounts. bold a	orders
++	1349	64	O	46376.09	26/10/1997	1-URGENT	Clerk#000000543	0	yly! blithely special theodolites cajole. unusual, reg	orders
++	5863	65	F	67941.54	22/11/1993	3-MEDIUM	Clerk#000000774	0	ets about the slyly pending ideas sleep according to the blithely 	orders
++	5760	25	F	59404.77	25/5/1994	4-NOT SPECIFIED	Clerk#000000498	0	s among the blithely regular frays haggle ironically bold theodolites. al	orders
++	1157	97	O	85394.06	14/1/1998	4-NOT SPECIFIED	Clerk#000000207	0	out the regular excuses boost carefully against the furio	orders
++	4544	112	O	151148.81	7/8/1997	3-MEDIUM	Clerk#000000435	0	g dependencies dazzle slyly ironic somas. carefu	orders
++	580	61	O	88219.12	5/7/1997	2-HIGH	Clerk#000000314	0	tegrate fluffily regular accou	orders
++	5637	103	O	128776.9	17/6/1996	3-MEDIUM	Clerk#000000183	0	nic dolphins are regular packages. ironic pinto beans hagg	orders
++	4320	115	O	67049.37	8/12/1996	4-NOT SPECIFIED	Clerk#000000223	0	ages haggle after the slowly bold se	orders
++	4423	64	F	4913.06	17/2/1995	5-LOW	Clerk#000000888	0	excuses are ruthless	orders
++	4263	4	O	158885.83	16/3/1998	1-URGENT	Clerk#000000265	0	sly ruthless deposits. final packages are instructions. fu	orders
++	2118	134	O	38974.67	9/10/1996	1-URGENT	Clerk#000000196	0	ial requests wake carefully special packages. f	orders
++	1760	115	O	82151.12	17/5/1996	5-LOW	Clerk#000000917	0	 deposits. busily regular deposits wake blithely along the furiously even re	orders
++	1509	64	F	180455.98	8/7/1993	5-LOW	Clerk#000000770	0	the regular ideas. regul	orders
++	5444	130	P	172908.01	18/3/1995	1-URGENT	Clerk#000000677	0	 asymptotes. asymptotes cajole quickly quickly bo	orders
++	1318	128	O	81663.65	27/6/1998	3-MEDIUM	Clerk#000000581	0	s hang bold requests. pending, re	orders
++	5348	53	O	119164.96	8/11/1997	5-LOW	Clerk#000000497	0	totes. accounts after the furiously	orders
++	996	71	O	47447.63	29/12/1997	1-URGENT	Clerk#000000497	0	arefully final packages into the slyly final requests affix blit	orders
++	3174	127	O	92856.91	15/11/1995	5-LOW	Clerk#000000663	0	rts. silent, regular pinto beans are blithely regular packages. furiousl	orders
++	1061	103	O	166947.75	15/5/1998	5-LOW	Clerk#000000576	0	uests sleep at the packages. fur	orders
++	39	Customer#000000039	nnbRg,Pvy33dfkorYE FdeZ60	2	12-387-467-6509	6264.31	AUTOMOBILE	tions. slyly silent excuses slee	customer
++	1440	98	O	50201.16	10/8/1995	5-LOW	Clerk#000000956	0	 pending requests. closely s	orders
++	2850	100	O	122969.79	2/10/1996	2-HIGH	Clerk#000000392	0	, regular deposits. furiously pending packages hinder carefully carefully u	orders
++	1952	67	F	12896.25	16/3/1994	2-HIGH	Clerk#000000254	0	 silent accounts boost 	orders
++	1824	49	F	81351.53	5/5/1994	1-URGENT	Clerk#000000972	0	e blithely fluffily	orders
++	112	Customer#000000112	RcfgG3bO7QeCnfjqJT1	19	29-233-262-8382	2953.35	FURNITURE	rmanently unusual multipliers. blithely ruthless deposits are furiously along the	customer
++	4864	88	F	149614.34	11/11/1992	5-LOW	Clerk#000000423	0	ests nag within the quickly ironic asymptotes. ironic	orders
++	5699	142	F	226314.91	30/7/1992	5-LOW	Clerk#000000311	0	o beans. ironic asymptotes boost. blithe, final courts integrate	orders
++	2018	19	P	25007.95	5/4/1995	4-NOT SPECIFIED	Clerk#000000920	0	gular accounts wake fur	orders
++	2403	55	O	111020.79	11/4/1998	3-MEDIUM	Clerk#000000820	0	furiously regular deposits use. furiously unusual accounts wake along the 	orders
++	2021	70	O	27016.74	15/7/1995	1-URGENT	Clerk#000000155	0	ong the furiously regular requests. unusual deposits wake fluffily inside	orders
++	5120	16	O	28007.73	5/6/1996	1-URGENT	Clerk#000000332	0	against the slyly express requests. furiousl	orders
++	5030	106	O	71781.23	25/5/1998	4-NOT SPECIFIED	Clerk#000000564	0	 wake slyly furiously thin requests. ironic pinto beans ha	orders
++	738	22	F	114145.18	2/3/1993	4-NOT SPECIFIED	Clerk#000000669	0	ly even foxes. furiously regular accounts cajole ca	orders
++	231	91	F	141554.06	29/9/1994	2-HIGH	Clerk#000000446	0	 packages haggle slyly after the carefully ironic instruct	orders
++	2370	142	F	73924.21	17/1/1994	1-URGENT	Clerk#000000231	0	lyly final packages. quickly final deposits haggl	orders
++	5861	139	O	41450.19	10/4/1997	3-MEDIUM	Clerk#000000094	0	rthogs cajole slyly. express packages sleep blithely final 	orders
++	12	Customer#000000012	9PWKuhzT4Zr1Q	13	23-791-276-1263	3396.49	HOUSEHOLD	 to the carefully final braids. blithely regular requests nag. ironic theodolites boost quickly along	customer
++	2368	13	F	101240.96	20/8/1993	1-URGENT	Clerk#000000830	0	t the bold instructions. carefully unusual 	orders
++	5607	92	F	24660.06	1/1/1992	4-NOT SPECIFIED	Clerk#000000137	0	c requests promise quickly fluffily ironic deposits. caref	orders
++	5063	23	O	98753.57	17/5/1997	2-HIGH	Clerk#000000745	0	lyly after the pending foxes. express theodolites breach across t	orders
++	993	80	O	198238.65	10/9/1995	3-MEDIUM	Clerk#000000894	0	quickly express accounts among the furiously bol	orders
++	2499	121	O	147243.86	24/9/1995	1-URGENT	Clerk#000000277	0	r the quickly bold foxes. bold instructi	orders
++	9	Customer#000000009	xKiAFTjUsCuxfeleNqefumTrjS	8	18-338-906-3675	8324.07	FURNITURE	r theodolites according to the requests wake thinly excuses: pending requests haggle furiousl	customer
++	965	70	P	41758.44	15/5/1995	5-LOW	Clerk#000000218	0	iously special packages. slyly pending requests are carefully 	orders
++	3777	28	F	82467.29	8/4/1994	3-MEDIUM	Clerk#000000941	0	 regular, special dolphins cajole enticingly ca	orders
++	3431	47	F	45536.27	22/8/1993	1-URGENT	Clerk#000000439	0	 sleep. slyly busy Tiresias a	orders
++	4065	80	F	156345.64	9/6/1994	1-URGENT	Clerk#000000131	0	even foxes! slyly final deposits agai	orders
++	352	107	F	16003.86	8/3/1994	2-HIGH	Clerk#000000932	0	ke slyly bold pinto beans. blithely regular accounts against the spe	orders
++	4192	146	O	197192.95	19/4/1998	1-URGENT	Clerk#000000369	0	equests above the slyly regular pinto beans unwi	orders
++	5191	77	F	119910.04	11/12/1994	4-NOT SPECIFIED	Clerk#000000318	0	ing, regular deposits alongside of the deposits boost fluffily quickly ev	orders
++	3877	17	F	178492.01	21/5/1993	5-LOW	Clerk#000000652	0	foxes. thinly bold reques	orders
++	5984	70	F	83413.3	18/6/1994	5-LOW	Clerk#000000023	0	ickly final pains haggle along the furiously ironic pinto bea	orders
++	1376	47	O	23984.88	4/5/1997	4-NOT SPECIFIED	Clerk#000000730	0	der furiously final, final frets. carefull	orders
++	1540	16	F	128014.15	5/8/1992	2-HIGH	Clerk#000000927	0	r ideas hinder blithe	orders
++	3364	46	O	108412.57	21/6/1997	1-URGENT	Clerk#000000280	0	y even foxes? blithely stea	orders
++	199	53	O	80592.44	7/3/1996	2-HIGH	Clerk#000000489	0	g theodolites. special packag	orders
++	2149	101	F	105145.4	13/3/1993	5-LOW	Clerk#000000555	0	nusual accounts nag furiously special reques	orders
++	1447	91	F	108171.38	15/10/1992	2-HIGH	Clerk#000000880	0	inly against the blithely pending excuses. regular, pe	orders
++	100	Customer#000000100	fptUABXcmkC5Wx	20	30-749-445-4907	9889.89	FURNITURE	was furiously fluffily quiet deposits. silent, pending requests boost against 	customer
++	4096	139	F	81089.61	3/7/1992	4-NOT SPECIFIED	Clerk#000000706	0	sits. quickly thin deposits x-ray blith	orders
++	3745	112	F	19405.73	29/9/1993	5-LOW	Clerk#000000181	0	ckages poach slyly against the foxes. slyly ironic instructi	orders
++	3042	20	F	104523.03	21/11/1994	3-MEDIUM	Clerk#000000573	0	 the slyly ironic depo	orders
++	1538	29	O	179554.41	18/6/1995	4-NOT SPECIFIED	Clerk#000000258	0	 instructions. regular theod	orders
++	117	Customer#000000117	uNhM,PzsRA3S,5Y Ge5Npuhi	24	34-403-631-3505	3950.83	FURNITURE	affix. instructions are furiously sl	customer
++	3878	88	O	59989.66	23/3/1997	1-URGENT	Clerk#000000314	0	e carefully regular platelets. special, express dependencies slee	orders
++	2918	118	O	21760.09	8/9/1996	3-MEDIUM	Clerk#000000439	0	ular deposits across th	orders
++	1191	112	O	28623.04	7/11/1995	3-MEDIUM	Clerk#000000011	0	uests nag furiously. carefully even requests	orders
++	3591	136	F	98140.86	8/12/1993	3-MEDIUM	Clerk#000000144	0	ual foxes haggle! unusual request	orders
++	4704	2	O	63873.14	16/8/1996	4-NOT SPECIFIED	Clerk#000000256	0	lithely final requests about the fluffily regular 	orders
++	2435	73	F	122490.66	21/2/1993	5-LOW	Clerk#000000112	0	es are carefully along the carefully final instructions. pe	orders
++	5543	115	F	118201.53	25/9/1993	3-MEDIUM	Clerk#000000644	0	ckly regular epitaphs. carefully bold accounts haggle furiously	orders
++	131	94	F	96596.81	8/6/1994	3-MEDIUM	Clerk#000000625	0	after the fluffily special foxes integrate s	orders
++	4580	82	F	118464.65	15/11/1993	4-NOT SPECIFIED	Clerk#000000086	0	rs wake blithely regular requests. fluffily ev	orders
++	2791	121	F	156697.55	10/10/1994	2-HIGH	Clerk#000000662	0	as. slyly ironic accounts play furiously bl	orders
++	1443	44	O	44672.03	16/12/1996	5-LOW	Clerk#000000185	0	x blithely against the carefully final somas. even asymptotes are. quickly spe	orders
++	1477	76	O	231831.35	24/8/1997	5-LOW	Clerk#000000612	0	ly bold foxes. final ideas would cajo	orders
++	5921	58	F	152940	7/4/1994	5-LOW	Clerk#000000125	0	kly special requests breach.	orders
++	3265	53	F	43315.15	27/6/1992	1-URGENT	Clerk#000000265	0	re quickly quickly pe	orders
++	1959	43	O	62277.18	13/1/1997	4-NOT SPECIFIED	Clerk#000000631	0	 cajole about the blithely express requests. even excuses mold bl	orders
++	1159	70	F	55553.68	18/9/1992	3-MEDIUM	Clerk#000000992	0	ts may sleep. requests according to the	orders
++	288	8	O	163794.53	21/2/1997	1-URGENT	Clerk#000000109	0	uriously final requests. even, final ideas det	orders
++	4643	67	O	52414.19	30/6/1995	2-HIGH	Clerk#000000292	0	ously regular packages. unusual, special platel	orders
++	2818	49	F	120086.84	12/12/1994	3-MEDIUM	Clerk#000000413	0	eep furiously special ideas. express 	orders
++	3973	103	F	91541.48	24/3/1992	4-NOT SPECIFIED	Clerk#000000114	0	somas according to the quickly even instructions wake fu	orders
++	165	28	F	141824.23	30/1/1993	4-NOT SPECIFIED	Clerk#000000292	0	across the blithely regular accounts. bold	orders
++	5251	34	O	34004.48	12/4/1995	3-MEDIUM	Clerk#000000687	0	 ironic dugouts detect. reque	orders
++	768	98	O	220636.82	20/8/1996	3-MEDIUM	Clerk#000000411	0	jole slyly ironic packages. slyly even idea	orders
++	3175	44	F	205282.63	15/7/1994	5-LOW	Clerk#000000629	0	 across the slyly even realms use carefully ironic deposits: sl	orders
++	134	7	F	154260.84	1/5/1992	4-NOT SPECIFIED	Clerk#000000711	0	lar theodolites boos	orders
++	295	19	F	89345.99	29/9/1994	2-HIGH	Clerk#000000155	0	 unusual pinto beans play. regular ideas haggle	orders
++	2785	148	O	132854.79	21/7/1995	2-HIGH	Clerk#000000098	0	iously pending packages sleep according to the blithely unusual foxe	orders
+Bye
+-	100	Customer#000000100	fptUABXcmkC5Wx	20	30-749-445-4907	9889.89	FURNITURE	was furiously fluffily quiet deposits. silent, pending requests boost against 	customer
+-	5254	112	F	196989.09	26/7/1992	4-NOT SPECIFIED	Clerk#000000527	0	he express, even ideas cajole blithely special requests	orders

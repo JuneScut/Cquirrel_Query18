@@ -1,0 +1,9 @@
++	4421	10	O	258779.02	4/4/1997	3-MEDIUM	Clerk#000000246	0	t the pending warhorses. express waters a	orders
++	4423	116	3	7	18	18289.98	0.01	0	N	O	7/6/1997	13/5/1997	10/6/1997	DELIVER IN PERSON	FOB	. regular, s	lineitem
++	10	Customer#000000010	6LrEaV6KR6PLVcgl2ArL Q3rqzLzcT1 v2	5	15-741-346-9870	2753.54	HOUSEHOLD	es regular deposits haggle. fur	customer
++	11	Customer#000000011	6LrEaV6KR6PLVcgl2ArL Q3rqzLzcT1 v2	5	15-741-346-9870	2753.54	HOUSEHOLD	es regular deposits haggle. fur	customer
+Bye
+-	10	Customer#000000010	6LrEaV6KR6PLVcgl2ArL Q3rqzLzcT1 v2	5	15-741-346-9870	2753.54	HOUSEHOLD	es regular deposits haggle. fur	customer
+-	4423	11	O	258779.02	4/4/1997	3-MEDIUM	Clerk#000000246	0	t the pending warhorses. express waters a	orders
++	4421	116	3	7	18	18289.98	0.01	0	N	O	7/6/1997	13/5/1997	10/6/1997	DELIVER IN PERSON	FOB	. regular, s	lineitem
+End
