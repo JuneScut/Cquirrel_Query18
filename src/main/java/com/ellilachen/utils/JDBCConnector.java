@@ -14,7 +14,7 @@ import java.sql.SQLException;
 public class JDBCConnector {
     static private final String JDBC_URL = "jdbc:mysql://localhost:3306/tpch_test?useSSL=false&characterEncoding=utf8";
     static private final String JDBC_USER = "root";
-    static private final String JDBC_PASSWORD = "Ellila@sql123";
+    static private final String JDBC_PASSWORD = "*";
 
     static private Connection connection = null;
 
